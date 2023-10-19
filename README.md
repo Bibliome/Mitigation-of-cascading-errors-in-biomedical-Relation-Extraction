@@ -1,2 +1,1 @@
-# Mitigation-of-cascading-errors-in-biomedical-Relation-Extraction
-[BLAH8] Mitigation of cascading errors in biomedical Relation Extraction
+# Mitigation of cascading errors in biomedicalRelation Extraction
