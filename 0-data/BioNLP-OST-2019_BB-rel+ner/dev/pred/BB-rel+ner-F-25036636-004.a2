@@ -1,0 +1,4 @@
+T512060970	Habitat 282 289	cheeses
+T929671679	Habitat 469 475	cheese
+T70165127	Microorganism 364 381	Pseudoalteromonas
+R187120217	Lives_In Microorganism:T70165127 Location:T929671679

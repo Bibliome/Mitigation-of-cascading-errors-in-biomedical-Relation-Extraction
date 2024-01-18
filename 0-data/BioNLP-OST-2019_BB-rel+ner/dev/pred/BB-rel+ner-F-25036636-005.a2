@@ -1,0 +1,40 @@
+T1817834561	Habitat 39 45	cheese
+T303329807	Habitat 190 199	community
+T1062376616	Habitat 274 279	yeast
+T538007066	Habitat 325 333	raw milk
+T1736807501	Habitat 325 333	raw milk
+T2073947395	Habitat 325 333	raw milk
+T1657905515	Habitat 509 514	rinds
+T1014676653	Habitat 676 685	community
+T17305355	Habitat 707 721	mature cheeses
+T704569434	Habitat 800 811	communities
+T2026706491	Microorganism 253 264	Leuconostoc
+T520830206	Microorganism 280 287	Candida
+T351216770	Microorganism 367 374	Candida
+T1705281026	Microorganism 462 476	Staphylococcus
+T1967667267	Microorganism 539 553	Brevibacterium
+T862062296	Microorganism 558 573	Brachybacterium
+T1589968642	Microorganism 590 601	Penicillium
+T521270862	Microorganism 606 620	Scopulariopsis
+R1316001196	Lives_In Microorganism:T2026706491 Location:T303329807
+R622772003	Lives_In Microorganism:T2026706491 Location:T1062376616
+R699871906	Lives_In Microorganism:T2026706491 Location:T538007066
+R460333119	Lives_In Microorganism:T2026706491 Location:T1736807501
+R1365711624	Lives_In Microorganism:T2026706491 Location:T2073947395
+R22040992	Lives_In Microorganism:T520830206 Location:T303329807
+R291651850	Lives_In Microorganism:T520830206 Location:T1062376616
+R185203393	Lives_In Microorganism:T520830206 Location:T538007066
+R1658785779	Lives_In Microorganism:T520830206 Location:T1736807501
+R1627496281	Lives_In Microorganism:T520830206 Location:T2073947395
+R1659435106	Lives_In Microorganism:T1967667267 Location:T1657905515
+R653515020	Lives_In Microorganism:T1967667267 Location:T1014676653
+R1011481270	Lives_In Microorganism:T1967667267 Location:T17305355
+R1365197105	Lives_In Microorganism:T862062296 Location:T1657905515
+R1951500432	Lives_In Microorganism:T862062296 Location:T1014676653
+R1280443567	Lives_In Microorganism:T862062296 Location:T17305355
+R1061018585	Lives_In Microorganism:T1589968642 Location:T1657905515
+R348148678	Lives_In Microorganism:T1589968642 Location:T1014676653
+R1814908102	Lives_In Microorganism:T1589968642 Location:T17305355
+R814111376	Lives_In Microorganism:T521270862 Location:T1657905515
+R1630841930	Lives_In Microorganism:T521270862 Location:T1014676653
+R2004655561	Lives_In Microorganism:T521270862 Location:T17305355

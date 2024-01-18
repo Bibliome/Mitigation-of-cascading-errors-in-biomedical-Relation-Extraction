@@ -1,0 +1,12 @@
+T103124609	Habitat 20 26	cheese
+T1669046345	Habitat 304 311	cheeses
+T942237171	Habitat 512 519	cheeses
+T1617690878	Habitat 753 767	polar seawater
+T124132186	Microorganism 75 89	Brevibacterium
+T2083969860	Microorganism 427 444	Pseudoalteromonas
+T1707293586	Microorganism 529 546	Pseudoalteromonas
+T2030294088	Microorganism 587 604	Pseudoalteromonas
+T1309191417	Microorganism 671 688	Pseudoalteromonas
+R1538511917	Lives_In Microorganism:T1707293586 Location:T942237171
+R1542856295	Lives_In Microorganism:T2030294088 Location:T942237171
+R46259342	Lives_In Microorganism:T1309191417 Location:T1617690878

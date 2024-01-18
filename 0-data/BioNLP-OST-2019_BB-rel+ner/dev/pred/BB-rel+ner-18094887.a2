@@ -1,0 +1,85 @@
+T1195615010	Habitat 29 34	areas
+T308028640	Habitat 119 126	animals
+T2033282874	Habitat 119 126	animals
+T1312547587	Habitat 128 134	humans
+T941453849	Habitat 128 134	humans
+T1241395522	Habitat 136 141	ticks
+T1562308546	Habitat 136 141	ticks
+T335466988	Habitat 147 152	fleas
+T335888914	Habitat 147 152	fleas
+T1640244246	Habitat 171 176	areas
+T538322335	Habitat 210 222	flea species
+T848961421	Habitat 224 237	Adoratopsylla
+T173431997	Habitat 261 288	Ctenocephalides felis felis
+T1969875555	Habitat 290 299	Polygenis
+T247269033	Habitat 308 317	Polygenis
+T382044126	Habitat 327 352	Polygenis roberti roberti
+T1994085390	Habitat 354 363	Polygenis
+T271944754	Habitat 372 386	Rhopalopsyllus
+T720638621	Habitat 401 415	Rhopalopsyllus
+T566369905	Habitat 439 451	tick species
+T373299466	Habitat 453 462	Amblyomma
+T707281900	Habitat 475 484	Amblyomma
+T541248718	Habitat 497 506	Amblyomma
+T551421413	Habitat 518 524	Ixodes
+T2025513192	Habitat 540 564	Rhipicephalus sanguineus
+T918606013	Habitat 586 590	dogs
+T685530738	Habitat 586 590	dogs
+T1579139754	Habitat 592 596	cats
+T96541510	Habitat 592 596	cats
+T2007100933	Habitat 602 610	opossums
+T1754087707	Habitat 602 610	opossums
+T140110402	Habitat 623 628	felis
+T720661245	Habitat 669 674	fleas
+T255814802	Habitat 669 674	fleas
+T2046839454	Habitat 731 736	ticks
+T835631769	Habitat 731 736	ticks
+T326945150	Habitat 745 751	animal
+T1712043260	Habitat 755 766	human blood
+T1726644367	Habitat 755 760	human
+T1527746617	Habitat 805 819	Testing animal
+T116185585	Habitat 824 829	human
+T197107207	Habitat 824 829	human
+T1159098498	Habitat 964 971	opossum
+T1150436743	Habitat 973 976	dog
+T1458552457	Habitat 973 976	dog
+T728842923	Habitat 978 983	horse
+T407241000	Habitat 978 983	horse
+T1960031800	Habitat 989 994	human
+T1708967185	Habitat 989 994	human
+T1256316161	Habitat 1219 1226	opossum
+T973604748	Habitat 1228 1231	dog
+T1120846205	Habitat 1228 1231	dog
+T1401095299	Habitat 1237 1242	horse
+T825116746	Habitat 1237 1242	horse
+T1768324470	Habitat 1406 1422	infected animals
+T1117674495	Habitat 1430 1436	humans
+T963573938	Habitat 1430 1436	humans
+T1921143808	Habitat 1452 1457	areas
+T1151772302	Microorganism 0 10	Rickettsia
+T974606690	Microorganism 439 443	tick
+T942444738	Microorganism 612 622	Rickettsia
+T678654833	Microorganism 642 652	rickettsia
+T1979860449	Microorganism 684 694	Rickettsia
+T1878454236	Microorganism 885 895	rickettsia
+T724081353	Microorganism 906 919	R. rickettsii
+T82517097	Microorganism 933 941	R. felis
+T721648892	Microorganism 947 956	R. bellii
+T1149747394	Microorganism 1011 1024	R. rickettsii
+T309271464	Microorganism 1179 1192	R. rickettsii
+T704143329	Microorganism 1377 1390	R. rickettsii
+R1883830050	Lives_In Microorganism:T1151772302 Location:T1195615010
+R201804812	Lives_In Microorganism:T974606690 Location:T566369905
+R1487230025	Lives_In Microorganism:T974606690 Location:T373299466
+R1498016680	Lives_In Microorganism:T974606690 Location:T541248718
+R1846539844	Lives_In Microorganism:T942444738 Location:T140110402
+R1490985125	Lives_In Microorganism:T942444738 Location:T720661245
+R707506411	Lives_In Microorganism:T942444738 Location:T255814802
+R1009326765	Lives_In Microorganism:T1979860449 Location:T2046839454
+R755328698	Lives_In Microorganism:T1979860449 Location:T835631769
+R7548983	Lives_In Microorganism:T1149747394 Location:T1960031800
+R1999135802	Lives_In Microorganism:T1149747394 Location:T1708967185
+R52487168	Lives_In Microorganism:T704143329 Location:T1768324470
+R85357160	Lives_In Microorganism:T704143329 Location:T1117674495
+R486348917	Lives_In Microorganism:T704143329 Location:T963573938
+R683718244	Lives_In Microorganism:T704143329 Location:T1921143808

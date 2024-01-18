@@ -1,0 +1,132 @@
+target	evaluation	scoring	measure	value
+
+dev	Standard pairing	Lives_In and Exhibits	SER	0.9967105263157895
+dev	Standard pairing	Lives_In and Exhibits	ISER	0.500823723228995
+dev	Standard pairing	Lives_In and Exhibits	Mismatches	43.220023195125364
+dev	Standard pairing	Lives_In and Exhibits	Matches	179.77997680487468
+dev	Standard pairing	Lives_In and Exhibits	Insertions	178
+dev	Standard pairing	Lives_In and Exhibits	Deletions	385
+dev	Standard pairing	Lives_In and Exhibits	F1	0.3563527786023284
+dev	Standard pairing	Lives_In and Exhibits	Recall	0.295690751323807
+dev	Standard pairing	Lives_In and Exhibits	Precision	0.4483291192141513
+dev	Standard pairing	Lives_In and Exhibits	Predictions	401
+dev	Standard pairing	Lives_In	SER	0.9955947136563876
+dev	Standard pairing	Lives_In	ISER	0.5011037527593819
+dev	Standard pairing	Lives_In	Mismatches	43.220023195125364
+dev	Standard pairing	Lives_In	Matches	179.77997680487468
+dev	Standard pairing	Lives_In	Insertions	178
+dev	Standard pairing	Lives_In	Deletions	231
+dev	Standard pairing	Lives_In	F1	0.42053795743830336
+dev	Standard pairing	Lives_In	Recall	0.3959911383367284
+dev	Standard pairing	Lives_In	Precision	0.4483291192141513
+dev	Standard pairing	Lives_In	Predictions	401
+dev	Standard pairing	Lives_In (Habitat)	SER	0.9951338199513382
+dev	Standard pairing	Lives_In (Habitat)	ISER	0.501219512195122
+dev	Standard pairing	Lives_In (Habitat)	Mismatches	43.220023195125364
+dev	Standard pairing	Lives_In (Habitat)	Matches	179.77997680487468
+dev	Standard pairing	Lives_In (Habitat)	Insertions	178
+dev	Standard pairing	Lives_In (Habitat)	Deletions	188
+dev	Standard pairing	Lives_In (Habitat)	F1	0.4428078246425484
+dev	Standard pairing	Lives_In (Habitat)	Recall	0.4374208681383812
+dev	Standard pairing	Lives_In (Habitat)	Precision	0.4483291192141513
+dev	Standard pairing	Lives_In (Habitat)	Predictions	401
+dev	Standard pairing	Lives_In (Geographical)	SER	1.0
+dev	Standard pairing	Lives_In (Geographical)	ISER	0.5
+dev	Standard pairing	Lives_In (Geographical)	Mismatches	0.0
+dev	Standard pairing	Lives_In (Geographical)	Matches	0.0
+dev	Standard pairing	Lives_In (Geographical)	Insertions	0
+dev	Standard pairing	Lives_In (Geographical)	Deletions	42
+dev	Standard pairing	Lives_In (Geographical)	F1	NaN
+dev	Standard pairing	Lives_In (Geographical)	Recall	0.0
+dev	Standard pairing	Lives_In (Geographical)	Precision	NaN
+dev	Standard pairing	Lives_In (Geographical)	Predictions	0
+dev	Standard pairing	Exhibits	SER	1.0
+dev	Standard pairing	Exhibits	ISER	0.5
+dev	Standard pairing	Exhibits	Mismatches	0.0
+dev	Standard pairing	Exhibits	Matches	0.0
+dev	Standard pairing	Exhibits	Insertions	0
+dev	Standard pairing	Exhibits	Deletions	154
+dev	Standard pairing	Exhibits	F1	NaN
+dev	Standard pairing	Exhibits	Recall	0.0
+dev	Standard pairing	Exhibits	Precision	NaN
+dev	Standard pairing	Exhibits	Predictions	0
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	SER	0.8912621359223301
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	ISER	0.528747433264887
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Mismatches	40.547385488004906
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Matches	163.45261451199508
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Insertions	108
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Deletions	311
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	F1	0.3952904824957559
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Recall	0.31738371749901956
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Precision	0.5238865849743432
+dev	Standard pairing	Lives_In and Exhibits (inside sentences)	Predictions	312
+dev	Standard pairing	Lives_In (inside sentences)	SER	0.8514588859416445
+dev	Standard pairing	Lives_In (inside sentences)	ISER	0.5401146131805158
+dev	Standard pairing	Lives_In (inside sentences)	Mismatches	40.547385488004906
+dev	Standard pairing	Lives_In (inside sentences)	Matches	163.45261451199508
+dev	Standard pairing	Lives_In (inside sentences)	Insertions	108
+dev	Standard pairing	Lives_In (inside sentences)	Deletions	173
+dev	Standard pairing	Lives_In (inside sentences)	F1	0.47446332224091453
+dev	Standard pairing	Lives_In (inside sentences)	Recall	0.43356131170290474
+dev	Standard pairing	Lives_In (inside sentences)	Precision	0.5238865849743432
+dev	Standard pairing	Lives_In (inside sentences)	Predictions	312
+dev	Standard pairing	Exhibits (inside sentences)	SER	1.0
+dev	Standard pairing	Exhibits (inside sentences)	ISER	0.5
+dev	Standard pairing	Exhibits (inside sentences)	Mismatches	0.0
+dev	Standard pairing	Exhibits (inside sentences)	Matches	0.0
+dev	Standard pairing	Exhibits (inside sentences)	Insertions	0
+dev	Standard pairing	Exhibits (inside sentences)	Deletions	138
+dev	Standard pairing	Exhibits (inside sentences)	F1	NaN
+dev	Standard pairing	Exhibits (inside sentences)	Recall	0.0
+dev	Standard pairing	Exhibits (inside sentences)	Precision	NaN
+dev	Standard pairing	Exhibits (inside sentences)	Predictions	0
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	SER	0.9259868421052632
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	ISER	0.5192143467122118
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Mismatches	0.0
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Matches	223.0
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Insertions	178
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Deletions	385
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	F1	0.44202180376610506
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Recall	0.3667763157894737
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Precision	0.5561097256857855
+dev	Standard pairing	Lives_In and Exhibits (ignore boundaries)	Predictions	401
+dev	Standard pairing	Lives_In (ignore boundaries)	SER	0.9008810572687225
+dev	Standard pairing	Lives_In (ignore boundaries)	ISER	0.526071842410197
+dev	Standard pairing	Lives_In (ignore boundaries)	Mismatches	0.0
+dev	Standard pairing	Lives_In (ignore boundaries)	Matches	223.0
+dev	Standard pairing	Lives_In (ignore boundaries)	Insertions	178
+dev	Standard pairing	Lives_In (ignore boundaries)	Deletions	231
+dev	Standard pairing	Lives_In (ignore boundaries)	F1	0.5216374269005848
+dev	Standard pairing	Lives_In (ignore boundaries)	Recall	0.4911894273127753
+dev	Standard pairing	Lives_In (ignore boundaries)	Precision	0.5561097256857855
+dev	Standard pairing	Lives_In (ignore boundaries)	Predictions	401
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	SER	0.8905109489051095
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	ISER	0.5289575289575289
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Mismatches	0.0
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Matches	223.0
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Insertions	178
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Deletions	188
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	F1	0.5492610837438424
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Recall	0.5425790754257908
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Precision	0.5561097256857855
+dev	Standard pairing	Lives_In (Habitat, ignore boundaries)	Predictions	401
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	SER	1.0
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	ISER	0.5
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Mismatches	0.0
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Matches	0.0
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Insertions	0
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Deletions	42
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	F1	NaN
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Recall	0.0
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Precision	NaN
+dev	Standard pairing	Lives_In (Geographical, ignore boundaries)	Predictions	0
+dev	Standard pairing	Exhibits (ignore boundaries)	SER	1.0
+dev	Standard pairing	Exhibits (ignore boundaries)	ISER	0.5
+dev	Standard pairing	Exhibits (ignore boundaries)	Mismatches	0.0
+dev	Standard pairing	Exhibits (ignore boundaries)	Matches	0.0
+dev	Standard pairing	Exhibits (ignore boundaries)	Insertions	0
+dev	Standard pairing	Exhibits (ignore boundaries)	Deletions	154
+dev	Standard pairing	Exhibits (ignore boundaries)	F1	NaN
+dev	Standard pairing	Exhibits (ignore boundaries)	Recall	0.0
+dev	Standard pairing	Exhibits (ignore boundaries)	Precision	NaN
+dev	Standard pairing	Exhibits (ignore boundaries)	Predictions	0

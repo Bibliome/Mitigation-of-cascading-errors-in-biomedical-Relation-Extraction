@@ -1,0 +1,50 @@
+T935807776	Habitat 3 20	semi-hard cheeses
+T1205621859	Habitat 3 20	semi-hard cheeses
+T1399939533	Habitat 27 32	Gouda
+T1978732957	Habitat 36 43	Cheddar
+T373347900	Habitat 186 193	flavour
+T177284913	Habitat 301 322	very diverse flavours
+T125525857	Habitat 326 340	dairy products
+T1313554214	Habitat 385 403	Swiss-type cheeses
+T462113301	Habitat 514 522	yoghurts
+T347843046	Habitat 650 673	surface-ripened cheeses
+T906206857	Habitat 650 673	surface-ripened cheeses
+T1883652579	Microorganism 130 145	Lactococcus sp.
+T1107779742	Microorganism 153 170	Lactobacillus sp.
+T1568450200	Microorganism 345 366	Propionibacterium sp.
+T208437930	Microorganism 429 446	Streptococcus sp.
+T1397516135	Microorganism 472 491	Bifidobacterium sp.
+T698437724	Microorganism 594 606	Arthrobacter
+T38647502	Microorganism 608 622	Brevibacterium
+T839552703	Microorganism 627 646	Corynebacterium sp.
+R2008229299	Lives_In Microorganism:T1883652579 Location:T935807776
+R1671816300	Lives_In Microorganism:T1883652579 Location:T1205621859
+R2123269713	Lives_In Microorganism:T1883652579 Location:T1399939533
+R1240412896	Lives_In Microorganism:T1883652579 Location:T1978732957
+R656349395	Lives_In Microorganism:T1883652579 Location:T373347900
+R1809129176	Lives_In Microorganism:T1107779742 Location:T935807776
+R1642308093	Lives_In Microorganism:T1107779742 Location:T1205621859
+R1370224403	Lives_In Microorganism:T1107779742 Location:T1399939533
+R246264949	Lives_In Microorganism:T1107779742 Location:T1978732957
+R1296910502	Lives_In Microorganism:T1107779742 Location:T373347900
+R828241083	Lives_In Microorganism:T1568450200 Location:T177284913
+R1069584108	Lives_In Microorganism:T1568450200 Location:T125525857
+R1554877309	Lives_In Microorganism:T1568450200 Location:T1313554214
+R2063786038	Lives_In Microorganism:T208437930 Location:T177284913
+R623131585	Lives_In Microorganism:T208437930 Location:T125525857
+R505968231	Lives_In Microorganism:T208437930 Location:T462113301
+R779018428	Lives_In Microorganism:T1397516135 Location:T177284913
+R1107404311	Lives_In Microorganism:T1397516135 Location:T125525857
+R1182758821	Lives_In Microorganism:T1397516135 Location:T462113301
+R465152579	Lives_In Microorganism:T698437724 Location:T177284913
+R1108066952	Lives_In Microorganism:T698437724 Location:T125525857
+R234223040	Lives_In Microorganism:T698437724 Location:T347843046
+R814377348	Lives_In Microorganism:T698437724 Location:T906206857
+R1723278948	Lives_In Microorganism:T38647502 Location:T177284913
+R2050275256	Lives_In Microorganism:T38647502 Location:T125525857
+R1489831627	Lives_In Microorganism:T38647502 Location:T347843046
+R1005093407	Lives_In Microorganism:T38647502 Location:T906206857
+R1689458432	Lives_In Microorganism:T839552703 Location:T177284913
+R996533593	Lives_In Microorganism:T839552703 Location:T125525857
+R195970976	Lives_In Microorganism:T839552703 Location:T347843046
+R1957282992	Lives_In Microorganism:T839552703 Location:T906206857

@@ -1,0 +1,39 @@
+T848311719	Habitat 73 98	monocyte-like THP-1 cells
+T1856090696	Habitat 73 81	monocyte
+T539880979	Habitat 262 267	human
+T409393797	Habitat 262 267	human
+T34179591	Habitat 311 323	immune cells
+T2060315163	Habitat 333 342	monocytes
+T860908057	Habitat 347 358	macrophages
+T443541775	Habitat 708 720	cell-surface
+T2134317947	Habitat 850 881	human monocyte-like THP-1 cells
+T547849783	Habitat 850 855	human
+T633595446	Habitat 856 864	monocyte
+T176172969	Habitat 1010 1035	monocyte-like THP-1 cells
+T376517752	Habitat 1010 1018	monocyte
+T1651547496	Habitat 1280 1286	murine
+T124458959	Habitat 1514 1539	monocyte-like THP-1 cells
+T748621785	Habitat 1514 1522	monocyte
+T1447258899	Habitat 1781 1785	cell
+T1523803699	Habitat 2041 2053	host tissues
+T223682076	Habitat 2124 2142	infected monocytes
+T603533580	Habitat 2172 2177	human
+T1647303553	Habitat 2172 2177	human
+T416016907	Habitat 2247 2272	monocyte-like THP-1 cells
+T1420682685	Habitat 2247 2255	monocyte
+T798158533	Phenotype 251 287	infectious human bacterial pathogens
+T1570907062	Phenotype 2172 2188	human pathogenic
+T292856581	Microorganism 47 58	Francisella
+T1907808127	Microorganism 174 185	Francisella
+T1291485735	Microorganism 640 653	F. tularensis
+T2015521846	Microorganism 759 770	Francisella
+T159860059	Microorganism 1950 1961	Francisella
+T870369046	Microorganism 2189 2217	F. tularensis ssp tularensis
+T492656161	Microorganism 2512 2525	F. tularensis
+R452457802	Lives_In Microorganism:T292856581 Location:T848311719
+R1857910993	Lives_In Microorganism:T1907808127 Location:T539880979
+R1130598644	Lives_In Microorganism:T1907808127 Location:T409393797
+R1293252487	Lives_In Microorganism:T159860059 Location:T1523803699
+R1760401098	Lives_In Microorganism:T870369046 Location:T603533580
+R1829966070	Lives_In Microorganism:T870369046 Location:T1647303553
+R841537936	Lives_In Microorganism:T870369046 Location:T416016907

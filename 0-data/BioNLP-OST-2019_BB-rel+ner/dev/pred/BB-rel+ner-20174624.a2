@@ -1,0 +1,50 @@
+T165912791	Habitat 0 11	Neutrophils
+T875360815	Habitat 99 103	cell
+T1947411625	Habitat 148 153	human
+T1802073627	Habitat 148 153	human
+T596794105	Habitat 154 174	innate immune system
+T1965313906	Habitat 213 224	macrophages
+T1931769490	Habitat 229 257	polymorphonuclear leukocytes
+T484728591	Habitat 259 270	neutrophils
+T464298807	Habitat 390 396	humans
+T1551263930	Habitat 390 396	humans
+T823062946	Habitat 540 558	murine macrophages
+T1400366992	Habitat 540 546	murine
+T2065000749	Habitat 563 578	dendritic cells
+T2089775616	Habitat 624 634	neutrophil
+T298754389	Habitat 804 838	human monocyte-derived macrophages
+T2041256330	Habitat 804 809	human
+T1810803319	Habitat 810 818	monocyte
+T905721605	Habitat 850 861	neutrophils
+T400937812	Habitat 938 998	human neutrophils with virulence plasmid-containing Yersinia
+T640474815	Habitat 938 943	human
+T396866084	Habitat 1142 1147	human
+T386040589	Habitat 1142 1147	human
+T1715306276	Habitat 1282 1286	cell
+T928024611	Habitat 1579 1583	cell
+T2028652786	Habitat 1763 1780	human neutrophils
+T129620467	Habitat 1763 1768	human
+T2024776456	Habitat 1907 1911	cell
+T1223186151	Habitat 2008 2013	human
+T1963980755	Habitat 2008 2013	human
+T1699407509	Phenotype 300 319	bacterial pathogens
+T1808810511	Phenotype 692 701	wild-type
+T875962500	Phenotype 706 712	mutant
+T639769517	Microorganism 446 455	Y. pestis
+T905329146	Microorganism 460 481	Y. pseudotuberculosis
+T1818440653	Microorganism 493 510	Y. enterocolitica
+T1677976140	Microorganism 604 612	Yersinia
+T790851040	Microorganism 724 732	Yersinia
+T1320826684	Microorganism 990 998	Yersinia
+T2325213	Microorganism 1190 1211	Y. pestis strain KIM6
+T1422262786	Microorganism 1458 1479	Y. pestis strain KIM6
+T311765759	Microorganism 1657 1671	Y. pestis KIM5
+T1987707214	Microorganism 1698 1706	Yersinia
+T219192399	Microorganism 1864 1872	Yersinia
+T963165280	Microorganism 1935 1943	Yersinia
+R1296928719	Lives_In Microorganism:T790851040 Location:T298754389
+R1628289406	Lives_In Microorganism:T790851040 Location:T2041256330
+R1862674654	Lives_In Microorganism:T1320826684 Location:T400937812
+R1068232840	Lives_In Microorganism:T1320826684 Location:T640474815
+R507061061	Lives_In Microorganism:T963165280 Location:T1223186151
+R317960117	Lives_In Microorganism:T963165280 Location:T1963980755

@@ -1,0 +1,9 @@
+T1370076828	Habitat 390 395	probe
+T1377212248	Microorganism 68 79	Penicillium
+T1054477035	Microorganism 129 140	Penicillium
+T1167792250	Microorganism 258 269	Penicillium
+T1799521220	Microorganism 340 352	P. crustosum
+T218654115	Microorganism 479 490	Escherichia
+T1668004795	Microorganism 631 636	a 321
+T2125346660	Microorganism 1101 1112	Penicillium
+R1869247587	Lives_In Microorganism:T1799521220 Location:T1370076828

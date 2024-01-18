@@ -1,0 +1,44 @@
+T5598968	Habitat 86 93	gastric
+T804268807	Habitat 128 135	gastric
+T1106862512	Habitat 343 350	gastric
+T189598677	Habitat 435 443	subjects
+T1742444126	Habitat 527 541	gastric mucosa
+T504037572	Habitat 527 534	gastric
+T354003593	Habitat 574 581	monkeys
+T1142208170	Habitat 596 611	control monkeys
+T1093694030	Habitat 676 684	children
+T2028310891	Habitat 705 719	gastric mucosa
+T897748819	Habitat 705 712	gastric
+T453255927	Habitat 802 809	gastric
+T301606086	Habitat 871 878	gastric
+T1887557446	Habitat 965 996	patients with chronic gastritis
+T1471224605	Habitat 1001 1008	gastric
+T1665622432	Habitat 1061 1099	young Japanese gastric cancer patients
+T1994976943	Habitat 1076 1083	gastric
+T1279355167	Habitat 1231 1238	gastric
+T579964563	Habitat 1249 1270	young Japanese people
+T981026543	Habitat 1360 1374	gastric mucosa
+T215857221	Habitat 1360 1367	gastric
+T1407922992	Habitat 1400 1407	gastric
+T1976822764	Habitat 1495 1503	clinical
+T150079886	Microorganism 10 22	Helicobacter
+T1818453711	Microorganism 165 177	Helicobacter
+T1437107223	Microorganism 250 259	H. pylori
+T413990536	Microorganism 416 425	H. pylori
+T9054826	Microorganism 452 461	H. pylori
+T1999135146	Microorganism 555 564	H. pylori
+T1714539364	Microorganism 646 655	H. pylori
+T429269396	Microorganism 770 779	H. pylori
+T1209962934	Microorganism 947 956	H. pylori
+T2089786414	Microorganism 1048 1057	H. pylori
+T336400944	Microorganism 1181 1190	H. pylori
+T1019157412	Microorganism 1309 1318	H. pylori
+T1097380	Microorganism 1552 1561	H. pylori
+R1391119179	Lives_In Microorganism:T413990536 Location:T189598677
+R1428726828	Lives_In Microorganism:T1999135146 Location:T354003593
+R710220387	Lives_In Microorganism:T1999135146 Location:T1142208170
+R443502884	Lives_In Microorganism:T1714539364 Location:T1093694030
+R517693873	Lives_In Microorganism:T1209962934 Location:T1887557446
+R247644034	Lives_In Microorganism:T2089786414 Location:T1665622432
+R214313531	Lives_In Microorganism:T336400944 Location:T579964563
+R1824570614	Lives_In Microorganism:T1097380 Location:T1976822764

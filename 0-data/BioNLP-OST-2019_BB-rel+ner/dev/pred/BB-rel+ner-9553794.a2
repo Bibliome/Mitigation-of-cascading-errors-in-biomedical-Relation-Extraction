@@ -1,0 +1,35 @@
+T2082807696	Habitat 41 50	piscicola
+T734159745	Habitat 78 123	modified-atmosphere-packed cold-smoked salmon
+T2102763946	Habitat 151 161	microflora
+T1358227492	Habitat 173 191	cold-smoked salmon
+T770733916	Habitat 327 334	storage
+T953825889	Habitat 466 498	vacuum-packed cold-smoked salmon
+T1779638752	Habitat 570 580	microflora
+T57870321	Habitat 1003 1018	vacuum packages
+T190702830	Habitat 1047 1067	vacuum-packed salmon
+T1667568700	Habitat 1318 1332	LAB microflora
+T279963418	Habitat 1365 1374	piscicola
+T467220526	Habitat 1456 1460	cell
+T1053334921	Habitat 1661 1679	cold-smoked salmon
+T759789267	Habitat 1707 1713	salmon
+T1708769512	Habitat 1746 1753	storage
+T1231696346	Microorganism 26 40	Carnobacterium
+T1367612102	Microorganism 1087 1097	Vibrio sp.
+T1130258687	Microorganism 1122 1140	Enterobacteriaceae
+T399715995	Microorganism 1142 1154	Enterobacter
+T1727026317	Microorganism 1194 1202	Rahnella
+T779051277	Microorganism 1231 1240	Aeromonas
+T512140711	Microorganism 1350 1364	Carnobacterium
+T1948224958	Microorganism 1513 1527	Carnobacterium
+T1564688538	Microorganism 1578 1590	C. piscicola
+T1713847712	Microorganism 1848 1860	C. piscicola
+R2028036437	Lives_In Microorganism:T1231696346 Location:T2082807696
+R1420012431	Lives_In Microorganism:T1367612102 Location:T190702830
+R426288284	Lives_In Microorganism:T399715995 Location:T190702830
+R1780399359	Lives_In Microorganism:T1727026317 Location:T190702830
+R428245792	Lives_In Microorganism:T779051277 Location:T190702830
+R1353759820	Lives_In Microorganism:T512140711 Location:T1667568700
+R203472514	Lives_In Microorganism:T512140711 Location:T279963418
+R331748029	Lives_In Microorganism:T1564688538 Location:T1053334921
+R1056185446	Lives_In Microorganism:T1713847712 Location:T759789267
+R1802736936	Lives_In Microorganism:T1713847712 Location:T1708769512

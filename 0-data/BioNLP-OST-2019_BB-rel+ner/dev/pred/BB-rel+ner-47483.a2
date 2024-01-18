@@ -1,0 +1,32 @@
+T1850426274	Habitat 237 245	clinical
+T264979388	Habitat 441 445	cell
+T280083535	Habitat 542 546	cell
+T1321122275	Habitat 737 753	individual cells
+T504562257	Habitat 737 747	individual
+T1177209399	Habitat 907 923	individual cells
+T1756735922	Habitat 907 917	individual
+T1156359608	Habitat 1048 1056	clinical
+T2065827695	Phenotype 369 382	gram-negative
+T2099878104	Microorganism 21 32	Haemophilus
+T1778422985	Microorganism 156 167	Haemophilus
+T1369885738	Microorganism 383 390	bacilli
+T285058000	Microorganism 405 412	bacilli
+T555943503	Microorganism 427 440	H. influenzae
+T1332439166	Microorganism 528 541	H. influenzae
+T684407333	Microorganism 757 770	H. influenzae
+T1431699407	Microorganism 789 800	Escherichia
+T1828559444	Microorganism 927 940	H. influenzae
+R1202081661	Lives_In Microorganism:T2099878104 Location:T1850426274
+R869290854	Lives_In Microorganism:T1778422985 Location:T1850426274
+R664839586	Lives_In Microorganism:T1778422985 Location:T280083535
+R1989332276	Lives_In Microorganism:T1778422985 Location:T1321122275
+R54176060	Lives_In Microorganism:T1369885738 Location:T1850426274
+R851480926	Lives_In Microorganism:T555943503 Location:T264979388
+R275754769	Lives_In Microorganism:T1332439166 Location:T280083535
+R1895054149	Lives_In Microorganism:T684407333 Location:T1321122275
+R651235118	Lives_In Microorganism:T684407333 Location:T504562257
+R279781579	Lives_In Microorganism:T1431699407 Location:T1850426274
+R2111247080	Lives_In Microorganism:T1431699407 Location:T1321122275
+R740827140	Lives_In Microorganism:T1828559444 Location:T1177209399
+R36627152	Lives_In Microorganism:T1828559444 Location:T1756735922
+R2080125222	Lives_In Microorganism:T1828559444 Location:T1156359608

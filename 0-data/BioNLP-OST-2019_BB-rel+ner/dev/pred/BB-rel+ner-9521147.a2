@@ -1,0 +1,17 @@
+T144689410	Habitat 151 164	Ara- clinical
+T611562743	Habitat 434 442	clinical
+T1606606012	Habitat 766 774	patients
+T467386845	Habitat 790 798	clinical
+T1769553652	Habitat 1180 1193	Ara- clinical
+T360133061	Habitat 1203 1207	soil
+T819870703	Habitat 1212 1221	Ara+ soil
+T1061405626	Habitat 1349 1374	patients with melioidosis
+T1485084120	Habitat 1391 1396	mouse
+T331306431	Phenotype 1108 1121	gram-negative
+T1013528106	Microorganism 41 53	Burkholderia
+T605201451	Microorganism 258 270	Burkholderia
+T72615125	Microorganism 272 283	Pseudomonas
+T689147194	Microorganism 696 711	B. pseudomallei
+T1555965524	Microorganism 1565 1580	B. pseudomallei
+T1841099284	Microorganism 1726 1741	B. pseudomallei
+R1266093632	Lives_In Microorganism:T689147194 Location:T1606606012

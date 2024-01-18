@@ -1,0 +1,28 @@
+T278848748	Habitat 42 53	respiratory
+T1713567092	Habitat 187 193	infant
+T1637026261	Habitat 226 231	mouse
+T395790413	Habitat 241 248	genital
+T1157049814	Habitat 435 442	mucosal
+T2013332834	Habitat 516 520	mice
+T919514326	Habitat 516 520	mice
+T652258293	Habitat 617 621	mice
+T950729555	Habitat 617 621	mice
+T952408635	Habitat 654 658	lung
+T1025248287	Habitat 705 716	neutrophils
+T2075795584	Habitat 738 743	lungs
+T1048796631	Habitat 808 827	TLR2-deficient mice
+T388623360	Habitat 823 827	mice
+T1087547646	Habitat 941 945	lung
+T360721404	Habitat 1003 1010	mucosal
+T833105240	Habitat 1034 1060	different mucosal surfaces
+T1423998405	Phenotype 155 163	pathogen
+T1183701566	Microorganism 22 31	Chlamydia
+T1428664849	Microorganism 100 109	Chlamydia
+T1422883946	Microorganism 255 264	chlamydia
+T1349872758	Microorganism 551 563	C. muridarum
+T1744032146	Microorganism 953 962	Chlamydia
+R1513029997	Lives_In Microorganism:T1183701566 Location:T278848748
+R439925336	Lives_In Microorganism:T1349872758 Location:T2013332834
+R986944742	Lives_In Microorganism:T1349872758 Location:T919514326
+R1616438581	Lives_In Microorganism:T1349872758 Location:T652258293
+R1121891386	Lives_In Microorganism:T1349872758 Location:T950729555

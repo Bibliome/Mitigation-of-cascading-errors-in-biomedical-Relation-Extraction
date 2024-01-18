@@ -1,0 +1,23 @@
+T1213359698	Habitat 103 134	chicken nugget processing plant
+T340089975	Habitat 103 110	chicken
+T1394650881	Habitat 111 117	nugget
+T1171995573	Habitat 433 455	different environments
+T2078167830	Habitat 477 481	food
+T1825078202	Habitat 510 541	chicken nugget processing plant
+T565933578	Habitat 510 517	chicken
+T1018442890	Habitat 518 524	nugget
+T1976184051	Habitat 662 677	selective agars
+T501196224	Habitat 1087 1091	food
+T1179315498	Habitat 1200 1204	food
+T1055300312	Microorganism 58 70	Listeria sp.
+T443348849	Microorganism 75 83	Listeria
+T1408043496	Microorganism 210 218	Listeria
+T1619369818	Microorganism 277 289	Listeria sp.
+T2144912729	Microorganism 294 302	Listeria
+R1318475957	Lives_In Microorganism:T1055300312 Location:T1213359698
+R712732521	Lives_In Microorganism:T443348849 Location:T1213359698
+R540092563	Lives_In Microorganism:T1619369818 Location:T1825078202
+R1894698434	Lives_In Microorganism:T1619369818 Location:T1018442890
+R205615258	Lives_In Microorganism:T2144912729 Location:T1171995573
+R2108708444	Lives_In Microorganism:T2144912729 Location:T1825078202
+R1424788681	Lives_In Microorganism:T2144912729 Location:T1018442890

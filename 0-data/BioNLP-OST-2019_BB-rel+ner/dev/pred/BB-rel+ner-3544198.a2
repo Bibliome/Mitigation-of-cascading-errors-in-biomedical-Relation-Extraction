@@ -1,0 +1,16 @@
+T527736826	Habitat 76 101	urine of leprosy patients
+T344578305	Habitat 85 101	leprosy patients
+T45815231	Habitat 133 141	phenolic
+T1095905974	Habitat 210 235	urine of leprosy patients
+T1763057786	Habitat 219 235	leprosy patients
+T1414475519	Habitat 309 314	urine
+T2022062081	Habitat 465 485	urine of LL patients
+T731657856	Habitat 474 485	LL patients
+T131124498	Habitat 712 732	urine of LL patients
+T1569163468	Habitat 721 732	LL patients
+T886343183	Microorganism 40 53	Mycobacterium
+T1716855490	Microorganism 163 176	Mycobacterium
+R366916060	Lives_In Microorganism:T886343183 Location:T527736826
+R1855734078	Lives_In Microorganism:T886343183 Location:T344578305
+R1470420462	Lives_In Microorganism:T1716855490 Location:T1095905974
+R1526062841	Lives_In Microorganism:T1716855490 Location:T1763057786

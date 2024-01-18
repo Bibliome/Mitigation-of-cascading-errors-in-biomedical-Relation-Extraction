@@ -1,0 +1,47 @@
+T2041083579	Habitat 59 73	duodenal ulcer
+T1708957033	Habitat 59 67	duodenal
+T876885309	Habitat 165 179	duodenal ulcer
+T1408802689	Habitat 165 173	duodenal
+T673855659	Habitat 360 364	drug
+T1019918829	Habitat 546 553	patient
+T773336342	Habitat 664 707	patients with active duodenal ulcer disease
+T1373783829	Habitat 685 699	duodenal ulcer
+T1689521081	Habitat 685 693	duodenal
+T1096399709	Habitat 1436 1441	ulcer
+T1440095568	Habitat 1456 1460	Drug
+T1626316640	Habitat 1488 1496	patients
+T1555982079	Habitat 1560 1568	patients
+T1278819487	Habitat 1776 1781	ulcer
+T1525508353	Habitat 1883 1891	patients
+T764682285	Habitat 1985 2023	patients with PPI-based triple therapy
+T1045950483	Habitat 2065 2107	patients with bismuth-based triple therapy
+T1419697469	Habitat 2232 2240	patients
+T1608568508	Habitat 2508 2522	duodenal ulcer
+T1048112253	Habitat 2508 2516	duodenal
+T269999184	Habitat 2561 2569	clinical
+T1708490318	Microorganism 79 91	Helicobacter
+T1840217399	Microorganism 196 208	Helicobacter
+T598049166	Microorganism 712 720	H pylori
+T1192603187	Microorganism 783 796	Campylobacter
+T167550865	Microorganism 1271 1279	H pylori
+T531373404	Microorganism 1419 1427	H pylori
+T277497558	Microorganism 1627 1635	H pylori
+T2055472834	Microorganism 1651 1659	H pylori
+T1750120280	Microorganism 2358 2366	H pylori
+T707719282	Microorganism 2539 2547	H pylori
+R1647243882	Lives_In Microorganism:T1708490318 Location:T2041083579
+R1105090408	Lives_In Microorganism:T1708490318 Location:T1708957033
+R1599566873	Lives_In Microorganism:T1840217399 Location:T876885309
+R687501326	Lives_In Microorganism:T1840217399 Location:T1408802689
+R1028811481	Lives_In Microorganism:T1840217399 Location:T1525508353
+R235151116	Lives_In Microorganism:T598049166 Location:T773336342
+R1779914089	Lives_In Microorganism:T598049166 Location:T1373783829
+R295055909	Lives_In Microorganism:T598049166 Location:T1689521081
+R1060935276	Lives_In Microorganism:T598049166 Location:T1419697469
+R300811000	Lives_In Microorganism:T277497558 Location:T764682285
+R1090695601	Lives_In Microorganism:T1750120280 Location:T1525508353
+R1638249646	Lives_In Microorganism:T707719282 Location:T1525508353
+R980533504	Lives_In Microorganism:T707719282 Location:T764682285
+R1533672820	Lives_In Microorganism:T707719282 Location:T1608568508
+R254955665	Lives_In Microorganism:T707719282 Location:T1048112253
+R1132369181	Lives_In Microorganism:T707719282 Location:T269999184

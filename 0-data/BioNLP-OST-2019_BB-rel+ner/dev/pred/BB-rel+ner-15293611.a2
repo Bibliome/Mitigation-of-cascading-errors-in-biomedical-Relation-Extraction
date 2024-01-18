@@ -1,0 +1,34 @@
+T1600607142	Habitat 297 316	productive patients
+T1989833527	Habitat 445 450	field
+T1841942108	Habitat 604 612	patients
+T1818367746	Habitat 621 627	clinic
+T1410822133	Habitat 684 692	patients
+T414634026	Habitat 734 742	patients
+T2140509886	Habitat 783 790	patient
+T905267663	Habitat 798 806	patients
+T1741265659	Habitat 839 847	patients
+T76883631	Habitat 985 993	patients
+T1303245721	Habitat 1045 1049	lung
+T1996406787	Habitat 1177 1185	patients
+T2009686669	Habitat 1461 1469	clinical
+T906370291	Microorganism 18 29	Pseudomonas
+T1905114489	Microorganism 132 143	Pseudomonas
+T245298614	Microorganism 398 411	P. aeruginosa
+T87035052	Microorganism 655 668	P. aeruginosa
+R535352603	Lives_In Microorganism:T906370291 Location:T1410822133
+R2015261478	Lives_In Microorganism:T1905114489 Location:T1410822133
+R577245010	Lives_In Microorganism:T1905114489 Location:T414634026
+R1624788833	Lives_In Microorganism:T1905114489 Location:T905267663
+R968957548	Lives_In Microorganism:T1905114489 Location:T1741265659
+R843959601	Lives_In Microorganism:T245298614 Location:T1600607142
+R1346197173	Lives_In Microorganism:T245298614 Location:T1410822133
+R1924966548	Lives_In Microorganism:T245298614 Location:T2140509886
+R1128266449	Lives_In Microorganism:T245298614 Location:T1741265659
+R533173186	Lives_In Microorganism:T87035052 Location:T1600607142
+R628487793	Lives_In Microorganism:T87035052 Location:T1841942108
+R848958019	Lives_In Microorganism:T87035052 Location:T1410822133
+R248487859	Lives_In Microorganism:T87035052 Location:T414634026
+R758465579	Lives_In Microorganism:T87035052 Location:T2140509886
+R670689666	Lives_In Microorganism:T87035052 Location:T905267663
+R1167327028	Lives_In Microorganism:T87035052 Location:T1741265659
+R936628786	Lives_In Microorganism:T87035052 Location:T1996406787

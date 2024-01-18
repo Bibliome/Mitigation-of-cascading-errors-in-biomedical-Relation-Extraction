@@ -1,0 +1,10 @@
+T1603044356	Habitat 26 32	vector
+T1904336871	Habitat 232 238	vector
+T1064456966	Habitat 715 729	transformation
+T1251400055	Habitat 884 890	vector
+T1943275118	Microorganism 71 81	Salmonella
+T1513071903	Microorganism 166 176	Salmonella
+T580965610	Microorganism 271 281	Salmonella
+T435626542	Microorganism 620 634	S. typhimurium
+R653345773	Lives_In Microorganism:T1513071903 Location:T1064456966
+R1008612116	Lives_In Microorganism:T580965610 Location:T1064456966

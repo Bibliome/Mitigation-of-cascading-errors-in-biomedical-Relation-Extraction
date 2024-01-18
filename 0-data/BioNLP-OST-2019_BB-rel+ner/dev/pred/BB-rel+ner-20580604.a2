@@ -1,0 +1,52 @@
+T1827329491	Habitat 13 46	probiotic fermented milk beverage
+T1191194983	Habitat 13 46	probiotic fermented milk beverage
+T1334072777	Habitat 13 46	probiotic fermented milk beverage
+T1769991158	Habitat 33 37	milk
+T1828349940	Habitat 118 128	intestinal
+T639690519	Habitat 129 139	microbiota
+T2060194246	Habitat 149 159	intestinal
+T1313600900	Habitat 175 211	healthy individuals with soft stools
+T511289775	Habitat 239 262	fermented milk beverage
+T1016462852	Habitat 239 262	fermented milk beverage
+T1045285080	Habitat 239 262	fermented milk beverage
+T2040742271	Habitat 249 253	milk
+T315065094	Habitat 332 347	bacterial cells
+T87518627	Habitat 348 354	bottle
+T1776377130	Habitat 382 388	bottle
+T362937205	Habitat 419 429	intestinal
+T1983283775	Habitat 430 440	microbiota
+T483105175	Habitat 449 459	intestinal
+T581936600	Habitat 475 511	healthy individuals with soft stools
+T1664346059	Habitat 563 574	soft stools
+T1132352711	Habitat 878 883	stool
+T1968434930	Habitat 961 966	water
+T75441778	Habitat 982 988	stools
+T1040699752	Habitat 1121 1126	stool
+T1107477181	Habitat 1222 1228	stools
+T77846081	Habitat 1601 1634	probiotic fermented milk beverage
+T1190834254	Habitat 1601 1634	probiotic fermented milk beverage
+T1030135257	Habitat 1601 1634	probiotic fermented milk beverage
+T2023840106	Habitat 1621 1625	milk
+T541262440	Habitat 1642 1651	intestine
+T1390109955	Habitat 1717 1722	stool
+T803306362	Habitat 1778 1813	healthy individuals with soft stool
+T1103025820	Phenotype 13 22	probiotic
+T1118356505	Phenotype 368 378	probiotics
+T474398473	Phenotype 652 662	probiotics
+T280165777	Phenotype 853 862	probiotic
+T984193938	Phenotype 1006 1015	probiotic
+T1525787110	Phenotype 1165 1174	probiotic
+T1227455943	Phenotype 1302 1312	probiotics
+T129797377	Phenotype 1467 1476	probiotic
+T1780076808	Phenotype 1601 1610	probiotic
+T1672736386	Microorganism 58 71	Lactobacillus
+T2089636626	Microorganism 277 290	Lactobacillus
+R1290614253	Lives_In Microorganism:T1672736386 Location:T1827329491
+R740467528	Lives_In Microorganism:T1672736386 Location:T1191194983
+R2077662850	Lives_In Microorganism:T1672736386 Location:T1334072777
+R1960253514	Lives_In Microorganism:T2089636626 Location:T511289775
+R1370495328	Lives_In Microorganism:T2089636626 Location:T1016462852
+R1748097277	Lives_In Microorganism:T2089636626 Location:T1045285080
+R668760567	Lives_In Microorganism:T2089636626 Location:T315065094
+R1803890702	Lives_In Microorganism:T2089636626 Location:T87518627
+R984567559	Lives_In Microorganism:T2089636626 Location:T1776377130
