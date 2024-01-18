@@ -1,0 +1,43 @@
+<alvisnlp-plan id="do">
+  <param name="deferred-dir">
+    <alias module="rebert" param="runScriptDirectory"/>
+  </param>
+
+  <param name="pred-dir">
+    <alias module="rebert" param="predictionsDirectory"/>
+  </param>
+  
+  <read>
+    <txt-layout class="BioNLPSTReader">
+      <textDir>txt</textDir>
+      <a1Dir>layout</a1Dir>
+      <textBoundAsAnnotations/>
+    </txt-layout>
+
+    <ner class="BioNLPSTReader">
+      <textDir>txt</textDir>
+      <a1Dir>NER</a1Dir>
+      <textBoundAsAnnotations/>
+    </ner>
+  </read>
+
+  <seg>
+    <rigid class="MergeLayers">
+      <sourceLayers>Microorganism,Habitat,Phenotype,Geographical</sourceLayers>
+      <targetLayer>rigid-entities</targetLayer>
+    </rigid>
+
+    <seg href="res://segmentation.plan"/>
+  </seg>
+
+  <rebert class="REBERTPredict">
+    <candidateGenerationScope>documents</candidateGenerationScope>
+    <generatedSubjects>sections.layer:Microorganism</generatedSubjects>
+    <generatedObjects>sections.layer:Habitat</generatedObjects>
+    <relation>Lives_In</relation>
+    <subjectRole>Microorganism</subjectRole>
+    <objectRole>Location</objectRole>
+    <ensembleModels>6</ensembleModels>
+    <explainFeaturePrefix/>
+  </rebert>
+</alvisnlp-plan>
