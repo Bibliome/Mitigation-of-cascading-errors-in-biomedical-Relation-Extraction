@@ -14,3 +14,5 @@ SET=$1
 DATA_DIR=0-data/BioNLP-OST-2019_BB-rel+ner/$SET
 
 srun $ALVISNLP -inputDir $DATA_DIR -inputDir . -outputDir $DATA_DIR/pred alvisnlp/predict.plan
+srun ./eval.sh $SET -tabular > $DATA_DIR/eval.tsv
+srun ./eval.sh $SET -pairing > $DATA_DIR/pairing.tsv
