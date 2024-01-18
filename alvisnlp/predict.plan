@@ -57,7 +57,7 @@
       <lines>relations:Lives_In.tuples</lines>
       <columns separator=";">
       "R" ^ id:unique;
-      "Lives_In Microorganism:T" ^ args:Microorganism.@id ^ " Location:T" ^ args:Location.@id
+      "Lives_In Microorganism:" ^ args:Microorganism.@id ^ " Location:" ^ args:Location.@id
       </columns>
     </Lives_In>
   </a2>
