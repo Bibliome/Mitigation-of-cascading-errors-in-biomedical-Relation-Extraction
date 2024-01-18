@@ -13,4 +13,4 @@ ALVISNLP=/mnt/beegfs/projects/alvisnlp/src/alvisnlp/.test/alvisnlp/bin/alvisnlp-
 SET=$1
 DATA_DIR=0-data/BioNLP-OST-2019_BB-rel+ner/$SET
 
-srun $ALVISNLP -inputDir $DATA_DIR -inputDir . alvisnlp/assessment.plan
+srun $ALVISNLP -inputDir $DATA_DIR -inputDir . -outputDir $DATA_DIR/pred alvisnlp/predict.plan

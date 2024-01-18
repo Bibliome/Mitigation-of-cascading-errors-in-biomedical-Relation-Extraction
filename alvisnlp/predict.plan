@@ -35,4 +35,30 @@
     <finetunedModel>/mnt/beegfs/projects/alvisnlp/re-bert/finetuned_model</finetunedModel>
     <useGPU/>
   </rebert>
+
+  <a2>
+    <entities class="TabularExport">
+      <outDir>.</outDir>
+      <files>documents.sections</files>
+      <fileName>document.@id ^ ".a2"</fileName>
+      <lines>(layer:Habitat|layer:Phenotype|layer:Microorganism)</lines>
+      <columns separator=";">
+      @id;
+      @type ^ " " ^ start ^ " " ^ end;
+      str:normalizeSpace(@form)
+      </columns>
+    </entities>
+
+    <Lives_In class="TabularExport">
+      <append/>
+      <outDir>.</outDir>
+      <files>documents.sections</files>
+      <fileName>document.@id ^ ".a2"</fileName>
+      <lines>relations:Lives_In.tuples</lines>
+      <columns separator=";">
+      "R" ^ id:unique;
+      "Lives_In Microorganism:T" ^ args:Microorganism.@id ^ " Location:T" ^ args:Location.@id
+      </columns>
+    </Lives_In>
+  </a2>
 </alvisnlp-plan>
