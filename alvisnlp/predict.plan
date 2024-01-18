@@ -51,7 +51,7 @@
 
     <Lives_In class="TabularExport">
       <append/>
-      <outDir>.</outDir>
+      <outDir>pred</outDir>
       <files>documents.sections</files>
       <fileName>document.@id ^ ".a2"</fileName>
       <lines>relations:Lives_In.tuples</lines>
@@ -61,4 +61,28 @@
       </columns>
     </Lives_In>
   </a2>
+
+  <gold class="BioNLPSTReader">
+    <textDir>txt</textDir>
+    <a2Dir>RE-gold</a2Dir>
+    <textBoundAsAnnotations/>
+    <constantAnnotationFeatures>gold=gold</constantAnnotationFeatures>
+  </gold>
+
+  <argmatch class="TabularExport">
+    <outDir>.</outDir>
+    <corpusFile>argmatch.tsv</corpusFile>
+    <lines>documents.sections.relations:Lives_In.tuples</lines>
+    <columns separator=";">
+      relation.section.document.@id;
+      @gold;
+      @id;
+      args:Microorganism.@id;
+      args:Location.@id;
+      str:join:' '(args:Microorganism.span:Microorganism[not @gold], @id);
+      str:join:' '(args:Microorganism.overlapping:Microorganism[not @gold], @id);
+      str:join:' '(args:Habitat.span:Habitat[not @gold], @id);
+      str:join:' '(args:Habitat.overlapping:Habitat[not @gold], @id)
+    </columns>
+  </argmatch>
 </alvisnlp-plan>
