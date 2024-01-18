@@ -1,12 +1,4 @@
 <alvisnlp-plan id="do">
-  <param name="deferred-dir">
-    <alias module="rebert" param="runScriptDirectory"/>
-  </param>
-
-  <param name="pred-dir">
-    <alias module="rebert" param="predictionsDirectory"/>
-  </param>
-  
   <read>
     <txt-layout class="BioNLPSTReader">
       <textDir>txt</textDir>
@@ -39,5 +31,8 @@
     <objectRole>Location</objectRole>
     <ensembleModels>6</ensembleModels>
     <explainFeaturePrefix/>
+    <modelType>biobert</modelType>
+    <finetunedModel>/mnt/beegfs/projects/alvisnlp/re-bert/finetuned_model</finetunedModel>
+    <useGPU/>
   </rebert>
 </alvisnlp-plan>

@@ -1,7 +1,16 @@
 #!/bin/env bash
 
-ALVISNLP=/home/rbossy/code/alvisnlp/.test/alvisnlp/bin/alvisnlp
+#SBATCH --job-name=anlp-test
+#SBATCH --output=run.out
+#SBATCH --error=run.err
+#SBATCH --ntasks=1
+#SBATCH --gres=gpu:1
+#SBATCH --partition=testing
+#SBATCH --qos=debug
 
-MODE=$1
+ALVISNLP=/mnt/beegfs/projects/alvisnlp/src/alvisnlp/.test/alvisnlp/bin/alvisnlp-0.11.0-SNAPSHOT
 
-$ALVISNLP -inputDir 0-data/BioNLP-OST-2019_BB-rel+ner/dev -inputDir . -alias deferred-dir 1-assessment/deferred/dev/Lives_In/$MODE alvisnlp/assessment.plan
+SET=$1
+DATA_DIR=0-data/BioNLP-OST-2019_BB-rel+ner/$SET
+
+srun $ALVISNLP -inputDir $DATA_DIR -inputDir . alvisnlp/assessment.plan

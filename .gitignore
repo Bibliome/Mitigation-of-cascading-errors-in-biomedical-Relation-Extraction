@@ -1,2 +1,2 @@
-config.sh
-run.sh
+*.out
+*.err
