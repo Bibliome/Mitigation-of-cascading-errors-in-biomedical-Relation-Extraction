@@ -1,0 +1,7 @@
+T3	Habitat 120 124	food
+T4	Habitat 242 251	red algal
+T5	Habitat 278 284	marine
+T6	Microorganism 377 406	Zobellia galactanivorans Dsij
+T7	Microorganism 564 580	Escherichia coli
+T8	Microorganism 1476 1499	Z. galactanivorans Dsij
+R1	Lives_In Microorganism:T6 Location:T5

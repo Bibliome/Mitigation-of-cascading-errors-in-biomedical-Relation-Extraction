@@ -1,0 +1,7 @@
+T2	Microorganism 22 30	Serratia
+T3	Habitat 39 68	Hospital S. Camillo De Lellis
+T4	Geographical 72 76	Roma
+T5	Geographical 78 83	Italy
+R1	Lives_In Microorganism:T2 Location:T5
+R2	Lives_In Microorganism:T2 Location:T3
+R3	Lives_In Microorganism:T2 Location:T4

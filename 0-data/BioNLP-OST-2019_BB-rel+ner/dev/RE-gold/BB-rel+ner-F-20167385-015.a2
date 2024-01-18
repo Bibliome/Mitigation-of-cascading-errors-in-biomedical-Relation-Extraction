@@ -1,0 +1,5 @@
+T1	Microorganism 50 65	S. thermophilus
+T2	Microorganism 70 84	L. delbrueckii
+T3	Habitat 129 135	cheese
+R1	Lives_In Microorganism:T1 Location:T3
+R2	Lives_In Microorganism:T2 Location:T3

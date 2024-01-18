@@ -1,0 +1,23 @@
+T3	Microorganism 13 36	Vibrio parahaemolyticus
+T4	Habitat 42 50	clinical
+T5	Geographical 80 84	Togo
+T6	Geographical 86 97	West Africa
+T7	Microorganism 173 195	Vibro parahaemolyticus
+T8	Habitat 210 218	clinical
+T9	Geographical 248 252	Togo
+T10	Habitat 373 397	gastroenteritis patients
+T11	Habitat 411 427	healthy carriers
+T12	Habitat 480 485	water
+T13	Habitat 490 502	fish samples
+T14	Geographical 537 541	Togo
+T15	Geographical 673 678	Japan
+R1	Lives_In Microorganism:T3 Location:T6
+R2	Lives_In Microorganism:T3 Location:T4
+R3	Lives_In Microorganism:T3 Location:T5
+R4	Lives_In Microorganism:T7 Location:T9
+R5	Lives_In Microorganism:T7 Location:T8
+R6	Lives_In Microorganism:T7 Location:T11
+R7	Lives_In Microorganism:T7 Location:T14
+R8	Lives_In Microorganism:T7 Location:T13
+R9	Lives_In Microorganism:T7 Location:T10
+R10	Lives_In Microorganism:T7 Location:T12

@@ -1,0 +1,19 @@
+T3	Microorganism 58 80	Pseudomonas aeruginosa
+T4	Habitat 82 94	Spheroplasts
+T5	Microorganism 138 160	Pseudomonas aeruginosa
+T6	Habitat 175 186	20% sucrose
+T7	Habitat 190 203	0.2 m MgCl(2)
+T8	Habitat 245 257	spheroplasts
+T9	Habitat 277 289	0.2 m Mg(2+)
+T10	Habitat 372 383	20% sucrose
+T11	Habitat 460 467	sucrose
+T12	Habitat 533 562	sucrose-lysozyme preparations
+T13	Habitat 649 661	spheroplasts
+T14	Habitat 726 737	20% sucrose
+T15	Habitat 950 957	sucrose
+T16	Habitat 1040 1056	sucrose-lysozyme
+T17	Habitat 1040 1078	sucrose-lysozyme prepared spheroplasts
+T18	Habitat 1145 1165	sucrose-washed cells
+T19	Microorganism 1293 1306	P. aeruginosa
+R1	Lives_In Microorganism:T5 Location:T7
+R2	Lives_In Microorganism:T5 Location:T6

@@ -1,0 +1,5 @@
+T1	Habitat 48 54	marine
+T2	Microorganism 65 95	Pseudoalteromonas haloplanktis
+T3	Habitat 122 128	cheese
+R1	Lives_In Microorganism:T2 Location:T1
+R2	Lives_In Microorganism:T2 Location:T3

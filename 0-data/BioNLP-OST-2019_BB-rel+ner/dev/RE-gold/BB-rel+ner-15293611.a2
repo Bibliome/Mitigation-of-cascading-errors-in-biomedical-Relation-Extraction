@@ -1,0 +1,49 @@
+T3	Microorganism 18 40	Pseudomonas aeruginosa
+T4	Habitat 44 54;65 86	paediatric cystic fibrosis units
+T5	Habitat 44 54	paediatric
+T6	Habitat 59 86	adult cystic fibrosis units
+T7	Habitat 59 64	adult
+T8	Microorganism 132 154	Pseudomonas aeruginosa
+T9	Habitat 158 184	cystic fibrosis (CF) units
+T10	Habitat 257 263	Sputum
+T11	Habitat 297 316	productive patients
+T12	Habitat 331 339;355 369	regional adult CF units
+T13	Habitat 331 350;361 369	regional paediatric CF units
+T14	Habitat 340 350	paediatric
+T15	Habitat 355 360	adult
+T16	Geographical 373 381	Brisbane
+T17	Geographical 383 392	Australia
+T18	Microorganism 398 411	P. aeruginosa
+T19	Phenotype 522 544	antibiotic sensitivity
+T20	Habitat 579 585	sputum
+T21	Habitat 604 612	patients
+T22	Habitat 621 627	clinic
+T23	Microorganism 655 668	P. aeruginosa
+T24	Habitat 684 692	patients
+T25	Habitat 734 742	patients
+T26	Habitat 783 790	patient
+T27	Habitat 798 806	patients
+T28	Habitat 839 847	patients
+T29	Habitat 985 993	patients
+T30	Habitat 1045 1049	lung
+T31	Phenotype 1138 1153	multiresistance
+T32	Habitat 1177 1185	patients
+T33	Phenotype 1416 1435	colonial morphology
+T34	Phenotype 1440 1455	multiresistance
+R1	Lives_In Microorganism:T3 Location:T6
+R2	Lives_In Microorganism:T3 Location:T4
+R3	Lives_In Microorganism:T8 Location:T9
+R4	Lives_In Microorganism:T18 Location:T11
+R5	Lives_In Microorganism:T18 Location:T10
+R6	Lives_In Microorganism:T18 Location:T17
+R7	Lives_In Microorganism:T18 Location:T16
+R8	Lives_In Microorganism:T23 Location:T24
+R9	Lives_In Microorganism:T23 Location:T28
+R10	Lives_In Microorganism:T23 Location:T26
+R11	Lives_In Microorganism:T23 Location:T32
+R12	Lives_In Microorganism:T23 Location:T25
+R13	Lives_In Microorganism:T23 Location:T20
+R14	Lives_In Microorganism:T23 Location:T29
+R15	Lives_In Microorganism:T23 Location:T21
+R16	Lives_In Microorganism:T23 Location:T27
+R17	Exhibits Microorganism:T23 Property:T31

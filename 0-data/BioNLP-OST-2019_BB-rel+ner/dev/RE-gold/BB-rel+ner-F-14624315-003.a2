@@ -1,0 +1,7 @@
+T1	Phenotype 153 174	transaminase activity
+T2	Microorganism 282 295	Lactobacillus
+T3	Microorganism 303 312	L. lactis
+T4	Microorganism 322 348	Streptococcus thermophilus
+T5	Phenotype 378 415	transaminase activity towards leucine
+R1	Exhibits Microorganism:T3 Property:T5
+R2	Exhibits Microorganism:T4 Property:T5

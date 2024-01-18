@@ -1,0 +1,7 @@
+T1	Phenotype 91 103	cold-adapted
+T2	Habitat 282 289	cheeses
+T3	Microorganism 364 381	Pseudoalteromonas
+T4	Habitat 469 475	cheese
+T5	Habitat 469 480	cheese rind
+R1	Lives_In Microorganism:T3 Location:T5
+R2	Lives_In Microorganism:T3 Location:T4

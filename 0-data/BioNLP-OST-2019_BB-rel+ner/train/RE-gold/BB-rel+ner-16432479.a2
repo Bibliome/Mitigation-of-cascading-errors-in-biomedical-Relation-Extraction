@@ -1,0 +1,37 @@
+T5	Geographical 42 55	South America
+T6	Geographical 64 73	Caribbean
+T7	Phenotype 105 130	resistance to antibiotics
+T8	Phenotype 183 211	antimicrobial susceptibility
+T9	Microorganism 215 236	Neisseria gonorrhoeae
+T10	Geographical 253 267	South American
+T11	Geographical 275 284	Caribbean
+T12	Habitat 408 420	laboratories
+T13	Geographical 441 449	Americas
+T14	Geographical 458 467	Caribbean
+T15	Microorganism 573 587	N. gonorrhoeae
+T16	Phenotype 654 682	antimicrobial susceptibility
+T17	Geographical 701 710	Argentina
+T18	Geographical 715 722	Uruguay
+T19	Phenotype 948 968	penicillin-resistant
+T20	Microorganism 969 983	N. gonorrhoeae
+T21	Phenotype 1074 1084	resistance
+T22	Phenotype 1171 1191	penicillin-resistant
+T23	Phenotype 1254 1264	resistance
+T24	Phenotype 1314 1324	resistance
+T25	Phenotype 1351 1374	ciprofloxacin-resistant
+T26	Microorganism 1394 1408	N. gonorrhoeae
+T27	Phenotype 1414 1441;1460 1472	decreased susceptibility to azithromycin
+T28	Phenotype 1414 1455	decreased susceptibility to ciprofloxacin
+T29	Phenotype 1484 1507	spectinomycin-resistant
+R1	Lives_In Microorganism:T9 Location:T11
+R2	Lives_In Microorganism:T9 Location:T10
+R3	Lives_In Microorganism:T15 Location:T14
+R4	Lives_In Microorganism:T15 Location:T13
+R5	Exhibits Microorganism:T20 Property:T24
+R6	Exhibits Microorganism:T20 Property:T19
+R7	Exhibits Microorganism:T20 Property:T22
+R8	Exhibits Microorganism:T20 Property:T23
+R9	Exhibits Microorganism:T20 Property:T21
+R10	Exhibits Microorganism:T26 Property:T28
+R11	Exhibits Microorganism:T26 Property:T27
+R12	Exhibits Microorganism:T26 Property:T29

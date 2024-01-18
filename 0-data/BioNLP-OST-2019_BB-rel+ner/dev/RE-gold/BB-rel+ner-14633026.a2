@@ -1,0 +1,26 @@
+T6	Phenotype 22 35	mosquitocidal
+T7	Microorganism 36 72	Bacillus thuringiensis serovar sotto
+T8	Geographical 94 101	Okinawa
+T9	Geographical 103 108	Japan
+T10	Phenotype 130 152	mosquitocidal activity
+T11	Microorganism 185 240	Bacillus thuringiensis serovar sotto strain 96-OK-85-24
+T12	Phenotype 285 298	mosquitocidal
+T13	Microorganism 319 330	96-OK-85-24
+T14	Phenotype 372 385	mosquitocidal
+T15	Microorganism 386 402	B. thuringiensis
+T16	Phenotype 431 450	larvicidal activity
+T17	Habitat 459 481	Culex pipiens molestus
+T18	Phenotype 486 505	haemolytic activity
+T19	Microorganism 674 685	96-OK-85-24
+T20	Phenotype 706 719	mosquitocidal
+T21	Phenotype 813 826	mosquitocidal
+T22	Microorganism 827 843	B. thuringiensis
+T23	Habitat 919 936	culicine mosquito
+R1	Lives_In Microorganism:T7 Location:T9
+R2	Lives_In Microorganism:T7 Location:T8
+R3	Exhibits Microorganism:T7 Property:T6
+R4	Exhibits Microorganism:T11 Property:T10
+R5	Lives_In Microorganism:T15 Location:T17
+R6	Exhibits Microorganism:T15 Property:T14
+R7	Exhibits Microorganism:T19 Property:T20
+R8	Exhibits Microorganism:T22 Property:T21

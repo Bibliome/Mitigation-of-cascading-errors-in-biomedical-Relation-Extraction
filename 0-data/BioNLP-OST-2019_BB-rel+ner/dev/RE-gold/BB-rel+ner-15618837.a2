@@ -1,0 +1,28 @@
+T6	Microorganism 14 33	Helicobacter pylori
+T7	Geographical 111 128	Republic of Yemen
+T8	Microorganism 163 182	Helicobacter pylori
+T9	Habitat 196 214	dyspeptic patients
+T10	Geographical 222 239	Republic of Yemen
+T11	Habitat 327 358	patients with chronic dyspepsia
+T12	Habitat 371 377	clinic
+T13	Habitat 393 409	Gastric biopsies
+T14	Habitat 393 400	Gastric
+T15	Microorganism 441 450	H. pylori
+T16	Habitat 504 537	Patients with H. pylori infection
+T17	Microorganism 518 527	H. pylori
+T18	Microorganism 626 635	H. pylori
+T19	Microorganism 722 731	H. pylori
+T20	Microorganism 817 826	H. pylori
+T21	Microorganism 1092 1101	H. pylori
+T22	Microorganism 1379 1388	H. pylori
+T23	Habitat 1402 1420	dyspeptic patients
+T24	Geographical 1424 1429	Yemen
+T25	Phenotype 1533 1599	widespread bacterial resistance due to unrestricted antibiotic use
+R1	Lives_In Microorganism:T6 Location:T7
+R2	Lives_In Microorganism:T8 Location:T9
+R3	Lives_In Microorganism:T8 Location:T10
+R4	Lives_In Microorganism:T15 Location:T14
+R5	Lives_In Microorganism:T17 Location:T16
+R6	Lives_In Microorganism:T22 Location:T24
+R7	Lives_In Microorganism:T22 Location:T23
+R8	Exhibits Microorganism:T22 Property:T25

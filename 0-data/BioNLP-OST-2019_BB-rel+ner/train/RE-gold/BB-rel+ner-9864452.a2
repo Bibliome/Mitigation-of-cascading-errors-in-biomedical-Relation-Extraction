@@ -1,0 +1,6 @@
+T3	Microorganism 68 88	Bacillus intermedius
+T4	Phenotype 163 185	streptomycin-resistant
+T5	Microorganism 196 222	Bacillus intermedius S3-19
+T6	Microorganism 816 830	B. intermedius
+T7	Microorganism 891 899	Bacillus
+R1	Exhibits Microorganism:T5 Property:T4

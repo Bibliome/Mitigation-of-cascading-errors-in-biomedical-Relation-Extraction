@@ -1,0 +1,44 @@
+T1	Microorganism 47 60	Psychrobacter
+T2	Habitat 85 103	Formaggio di Fossa
+T3	Habitat 105 115	Gorgonzola
+T4	Habitat 117 125	Taleggio
+T5	Habitat 130 138	Scimudin
+T6	Microorganism 168 190	Staphylococcus equorum
+T7	Habitat 210 216	cheese
+T8	Habitat 259 265	Casera
+T9	Microorganism 267 285	Micrococcus luteus
+T10	Habitat 336 349	Casera cheese
+T11	Microorganism 370 382	S. vitulinus
+T12	Habitat 414 422	Scimudin
+T13	Microorganism 444 469	Lactobacillus delbrueckii
+T14	Habitat 502 508;524 531	Casera cheeses
+T15	Habitat 513 531	Gorgonzola cheeses
+T16	Microorganism 550 576	Streptococcus thermophilus
+T17	Habitat 595 601	Casera
+T18	Habitat 606 624	Formaggio di Fossa
+T19	Microorganism 634 654	Enterococcus faecium
+T20	Habitat 688 701	Casera cheese
+T21	Habitat 733 751;765 772	Formaggio di Fossa cheeses
+T22	Habitat 756 772	Scimudin cheeses
+T23	Microorganism 788 808	Brevibacterium casei
+T24	Microorganism 825 834	B. linens
+T25	Habitat 872 885	Casera cheese
+T26	Habitat 872 893	Casera cheese surface
+R1	Lives_In Microorganism:T1 Location:T2
+R2	Lives_In Microorganism:T1 Location:T3
+R3	Lives_In Microorganism:T1 Location:T4
+R4	Lives_In Microorganism:T1 Location:T5
+R5	Lives_In Microorganism:T6 Location:T7
+R6	Lives_In Microorganism:T6 Location:T8
+R7	Lives_In Microorganism:T11 Location:T12
+R8	Lives_In Microorganism:T13 Location:T15
+R9	Lives_In Microorganism:T13 Location:T14
+R10	Lives_In Microorganism:T16 Location:T17
+R11	Lives_In Microorganism:T16 Location:T18
+R12	Lives_In Microorganism:T19 Location:T20
+R13	Lives_In Microorganism:T19 Location:T22
+R14	Lives_In Microorganism:T19 Location:T21
+R15	Lives_In Microorganism:T23 Location:T25
+R16	Lives_In Microorganism:T23 Location:T26
+R17	Lives_In Microorganism:T24 Location:T26
+R18	Lives_In Microorganism:T24 Location:T25

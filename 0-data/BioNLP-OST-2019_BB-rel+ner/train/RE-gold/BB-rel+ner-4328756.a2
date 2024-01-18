@@ -1,0 +1,16 @@
+T3	Microorganism 16 33	Coxiella burnetii
+T4	Habitat 60 102	Purified preparations of Coxiella burnetii
+T5	Microorganism 85 102	Coxiella burnetii
+T6	Habitat 313 333	C. burnetii extracts
+T7	Microorganism 313 324	C. burnetii
+T8	Microorganism 347 358	C. burnetii
+T9	Habitat 373 389	normal yolk sacs
+T10	Habitat 604 610;624 633	normal yolk sacs
+T11	Habitat 615 633	infected yolk sacs
+T12	Habitat 764 770;784 793	normal yolk sacs
+T13	Habitat 775 793	infected yolk sacs
+T14	Habitat 850 869	C. burnetii extract
+T15	Microorganism 850 861	C. burnetii
+R1	Lives_In Microorganism:T3 Location:T11
+R2	Lives_In Microorganism:T8 Location:T9
+R3	Lives_In Microorganism:T15 Location:T13

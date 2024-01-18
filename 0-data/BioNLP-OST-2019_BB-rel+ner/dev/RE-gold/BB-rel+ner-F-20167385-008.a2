@@ -1,0 +1,20 @@
+T1	Habitat 41 57	white mould rind
+T2	Habitat 59 74	Scimudin cheese
+T3	Microorganism 100 109	M. luteus
+T4	Microorganism 114 129	P. glacincolaus
+T5	Microorganism 150 162	S. vitulinus
+T6	Habitat 181 198	Casera Valtellina
+T7	Habitat 202 208	cheese
+T8	Habitat 252 256	rind
+T9	Microorganism 287 297	S. equorum
+T10	Microorganism 299 308	B. linens
+T11	Microorganism 313 321	B. casei
+R1	Lives_In Microorganism:T3 Location:T1
+R2	Lives_In Microorganism:T3 Location:T2
+R3	Lives_In Microorganism:T4 Location:T2
+R4	Lives_In Microorganism:T4 Location:T1
+R5	Lives_In Microorganism:T5 Location:T2
+R6	Lives_In Microorganism:T5 Location:T1
+R7	Lives_In Microorganism:T9 Location:T6
+R8	Lives_In Microorganism:T10 Location:T6
+R9	Lives_In Microorganism:T11 Location:T6

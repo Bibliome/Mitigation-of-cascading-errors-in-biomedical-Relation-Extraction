@@ -1,0 +1,34 @@
+T1	Microorganism 0 16	S. saprophyticus
+T2	Habitat 131 139;153 160	Taleggio cheeses
+T3	Habitat 144 160	Scimudin cheeses
+T4	Habitat 217 234	Gorgonzola cheese
+T5	Habitat 316 324;337 344	Taleggio cheeses
+T6	Habitat 330 344	Casera cheeses
+T7	Habitat 364 372	Scimudin
+T8	Habitat 377 387	Gorgonzola
+T9	Habitat 468 476	Taleggio
+T10	Habitat 490 506	Scimudin cheeses
+T11	Microorganism 534 544	S. equorum
+T12	Habitat 639 647;697 704	Taleggio cheeses
+T13	Habitat 653 661;697 704	Scimudin cheeses
+T14	Habitat 667 673;697 704	Casera cheeses
+T15	Habitat 682 692;697 704	Gorgonzola cheeses
+T16	Habitat 761 771	Gorgonzola
+T17	Habitat 781 789	Scimudin
+T18	Habitat 808 816	Taleggio
+R1	Lives_In Microorganism:T1 Location:T6
+R2	Lives_In Microorganism:T1 Location:T7
+R3	Lives_In Microorganism:T1 Location:T4
+R4	Lives_In Microorganism:T1 Location:T10
+R5	Lives_In Microorganism:T1 Location:T3
+R6	Lives_In Microorganism:T1 Location:T5
+R7	Lives_In Microorganism:T1 Location:T8
+R8	Lives_In Microorganism:T1 Location:T9
+R9	Lives_In Microorganism:T1 Location:T2
+R10	Lives_In Microorganism:T11 Location:T16
+R11	Lives_In Microorganism:T11 Location:T12
+R12	Lives_In Microorganism:T11 Location:T15
+R13	Lives_In Microorganism:T11 Location:T14
+R14	Lives_In Microorganism:T11 Location:T18
+R15	Lives_In Microorganism:T11 Location:T17
+R16	Lives_In Microorganism:T11 Location:T13

@@ -1,0 +1,25 @@
+T3	Phenotype 27 45	type III secretion
+T4	Microorganism 59 80	Escherichia coli O157
+T5	Microorganism 97 112	lambdoid phages
+T6	Phenotype 145 155	pathogenic
+T7	Microorganism 167 183	Escherichia coli
+T8	Phenotype 192 210	type III secretion
+T9	Habitat 246 257	human cells
+T10	Habitat 246 251	human
+T11	Habitat 278 293	eukaryotic cell
+T12	Microorganism 442 447	Sakai
+T13	Phenotype 458 475	enterohemorrhagic
+T14	Microorganism 476 498	E. coli (EHEC) O157:H7
+T15	Phenotype 485 489	EHEC
+T16	Phenotype 875 879	EHEC
+T17	Microorganism 875 879	EHEC
+T18	Microorganism 987 992	Sakai
+T19	Phenotype 1007 1011	EHEC
+T20	Microorganism 1007 1011	EHEC
+T21	Phenotype 1063 1078	plant pathogens
+T22	Habitat 1063 1068	plant
+T23	Microorganism 1110 1118	Shigella
+T24	Microorganism 1428 1446	lambdoid prophages
+T25	Phenotype 1454 1472	type III secretion
+T26	Microorganism 1476 1483	E. coli
+T27	Phenotype 1566 1579	pathogenicity

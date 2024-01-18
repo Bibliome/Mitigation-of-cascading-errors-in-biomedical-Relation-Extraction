@@ -1,0 +1,22 @@
+T3	Microorganism 28 40	Marinobacter
+T4	Microorganism 42 54	Marinobacter
+T5	Microorganism 78 97	Gammaproteobacteria
+T6	Phenotype 108 114	motile
+T7	Phenotype 116 126	halophilic
+T8	Phenotype 130 142	halotolerent
+T9	Habitat 190 204	world's oceans
+T10	Habitat 249 268	marine environments
+T11	Habitat 319 334	bacterial flora
+T12	Habitat 357 363	marine
+T13	Habitat 357 373	marine organisms
+T14	Phenotype 768 778;795 817	production of native siderophores
+T15	Phenotype 881 891;908 930	production of native siderophores
+T16	Phenotype 949 971	siderophore production
+T17	Phenotype 1198 1220	Siderophore production
+R1	Lives_In Microorganism:T4 Location:T9
+R2	Lives_In Microorganism:T4 Location:T13
+R3	Lives_In Microorganism:T4 Location:T11
+R4	Lives_In Microorganism:T4 Location:T10
+R5	Exhibits Microorganism:T4 Property:T8
+R6	Exhibits Microorganism:T4 Property:T6
+R7	Exhibits Microorganism:T4 Property:T7

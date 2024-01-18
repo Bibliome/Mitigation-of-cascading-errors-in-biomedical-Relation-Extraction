@@ -1,0 +1,7 @@
+T3	Microorganism 0 12	Methylocella
+T4	Phenotype 31 44	methanotrophs
+T5	Phenotype 87 94;122 180	ability to grow simultaneously on methane and longer chain alkanes
+T6	Microorganism 98 121	Methylocella silvestris
+T7	Microorganism 308 320	Methylocella
+R1	Exhibits Microorganism:T3 Property:T4
+R2	Exhibits Microorganism:T6 Property:T5

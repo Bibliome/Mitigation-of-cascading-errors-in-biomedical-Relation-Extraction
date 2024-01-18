@@ -1,0 +1,46 @@
+T3	Microorganism 30 53	Pseudomonas fluorescens
+T4	Habitat 98 122	cross-protective vaccine
+T5	Phenotype 212 225	Gram-negative
+T6	Phenotype 358 367	virulence
+T7	Phenotype 404 414	pathogenic
+T8	Phenotype 548 558	pathogenic
+T9	Microorganism 559 594	Pseudomonas fluorescens strain, TSS
+T10	Habitat 610 661	diseased Japanese flounder cultured in a local farm
+T11	Habitat 651 661	local farm
+T12	Microorganism 663 666	TSS
+T13	Microorganism 726 742	Escherichia coli
+T14	Phenotype 743 753	fur mutant
+T15	Microorganism 757 760	TSS
+T16	Phenotype 761 776	fur null mutant
+T17	Microorganism 778 781	TFM
+T18	Microorganism 812 815	TSS
+T19	Microorganism 817 820	TFM
+T20	Phenotype 902 963	decreased resistance against host serum bactericidal activity
+T21	Habitat 931 941	host serum
+T22	Habitat 1000 1004;1015 1022	host tissues
+T23	Habitat 1000 1010	host blood
+T24	Phenotype 1059 1078	bacterial virulence
+T25	Habitat 1084 1101	Japanese flounder
+T26	Habitat 1134 1146	live vaccine
+T27	Habitat 1194 1198	oral
+T28	Microorganism 1207 1210	TFM
+T29	Habitat 1250 1267	Japanese flounder
+T30	Microorganism 1285 1299	P. fluorescens
+T31	Microorganism 1319 1339	Aeromonas hydrophila
+T32	Microorganism 1440 1454	Vibrio harveyi
+T33	Microorganism 1474 1477	TFM
+T34	Habitat 1560 1577	Japanese flounder
+T35	Microorganism 1588 1591	TFM
+T36	Microorganism 1643 1653	V. harveyi
+T37	Microorganism 1658 1671	A. hydrophila
+R1	Lives_In Microorganism:T9 Location:T11
+R2	Lives_In Microorganism:T9 Location:T10
+R3	Exhibits Microorganism:T9 Property:T8
+R4	Exhibits Microorganism:T13 Property:T14
+R5	Exhibits Microorganism:T17 Property:T16
+R6	Lives_In Microorganism:T19 Location:T21
+R7	Lives_In Microorganism:T19 Location:T25
+R8	Exhibits Microorganism:T19 Property:T20
+R9	Lives_In Microorganism:T28 Location:T29
+R10	Lives_In Microorganism:T28 Location:T26
+R11	Lives_In Microorganism:T35 Location:T34

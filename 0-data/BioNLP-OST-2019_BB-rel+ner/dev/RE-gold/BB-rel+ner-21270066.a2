@@ -1,0 +1,30 @@
+T3	Habitat 39 47	perianal
+T4	Habitat 39 58	perianal ulceration
+T5	Geographical 178 180	UK
+T6	Habitat 217 255	HIV-positive men who have sex with men
+T7	Microorganism 217 220	HIV
+T8	Habitat 252 255	men
+T9	Habitat 257 260	MSM
+T10	Habitat 263 271	Patients
+T11	Habitat 333 339	rectal
+T12	Habitat 347 399	MSM attending sexually transmitted infection clinics
+T13	Habitat 361 399	sexually transmitted infection clinics
+T14	Geographical 403 409	London
+T15	Habitat 492 501	anorectal
+T16	Habitat 565 634	HIV-infected patients presenting with isolated perianal ulcer disease
+T17	Microorganism 565 568	HIV
+T18	Habitat 612 626	perianal ulcer
+T19	Habitat 612 620	perianal
+T20	Habitat 688 694	rectal
+T21	Microorganism 695 716	Chlamydia trachomatis
+T22	Microorganism 968 977	chlamydia
+T23	Habitat 1032 1050	MSM with proctitis
+T24	Habitat 1113 1144	MSM with perianal ulcer disease
+T25	Habitat 1122 1130	perianal
+T26	Habitat 1122 1136	perianal ulcer
+R1	Lives_In Microorganism:T7 Location:T6
+R2	Lives_In Microorganism:T7 Location:T9
+R3	Lives_In Microorganism:T17 Location:T16
+R4	Lives_In Microorganism:T21 Location:T20
+R5	Lives_In Microorganism:T21 Location:T16
+*	Equiv T9 T6

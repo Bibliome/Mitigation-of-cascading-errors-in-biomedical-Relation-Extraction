@@ -1,0 +1,58 @@
+T3	Phenotype 0 14	Quorum-sensing
+T4	Phenotype 29 37	adhesion
+T5	Microorganism 41 64	Serratia marcescens MG1
+T6	Microorganism 87 106	Serratia marcescens
+T7	Phenotype 113 135	opportunistic pathogen
+T8	Habitat 157 163	ocular
+T9	Microorganism 199 216	S. marcescens MG1
+T10	Habitat 233 240	biofilm
+T11	Phenotype 233 251	biofilm maturation
+T12	Phenotype 284 336	N-acyl homoserine lactone (AHL)-based quorum sensing
+T13	Phenotype 338 340	QS
+T14	Phenotype 372 380	adhesion
+T15	Habitat 395 402	biofilm
+T16	Phenotype 395 412	biofilm formation
+T17	Phenotype 484 486	QS
+T18	Phenotype 503 511	adhesion
+T19	Habitat 520 527;539 547	abiotic surfaces
+T20	Habitat 532 547	biotic surfaces
+T21	Phenotype 590 600	attachment
+T22	Habitat 604 637	hydrophilic tissue culture plates
+T23	Habitat 642 678	human corneal epithelial (HCE) cells
+T24	Habitat 642 647	human
+T25	Habitat 648 655	corneal
+T26	Habitat 656 666	epithelial
+T27	Phenotype 715 723	adhesion
+T28	Habitat 731 746	abiotic surface
+T29	Phenotype 766 774	adhesion
+T30	Habitat 782 790	HCE cell
+T31	Habitat 782 805	HCE cell biotic surface
+T32	Phenotype 879 881	QS
+T33	Phenotype 891 901	attachment
+T34	Habitat 909 932	biotic HCE cell surface
+T35	Habitat 916 924	HCE cell
+T36	Phenotype 955 963	adhesion
+T37	Habitat 971 986	abiotic surface
+T38	Phenotype 1032 1034	QS
+T39	Phenotype 1067 1077	attachment
+T40	Habitat 1085 1100	abiotic surface
+T41	Phenotype 1139 1147	adhesion
+T42	Habitat 1155 1170	abiotic surface
+T43	Phenotype 1272 1280	adhesion
+T44	Habitat 1288 1302	biotic surface
+T45	Phenotype 1312 1314	QS
+T46	Phenotype 1436 1438	QS
+T47	Phenotype 1463 1473	attachment
+T48	Habitat 1477 1486	HCE cells
+T49	Phenotype 1507 1509	QS
+T50	Microorganism 1513 1526	S. marcescens
+T51	Microorganism 1659 1676	S. marcescens MG1
+T52	Phenotype 1731 1741	attachment
+T53	Habitat 1745 1751;1764 1772	biotic surfaces
+T54	Habitat 1756 1772	abiotic surfaces
+T55	Phenotype 1782 1784	QS
+T56	Phenotype 1817 1825	adhesion
+T57	Habitat 1832 1847	abiotic surface
+T58	Phenotype 1859 1867	adhesion
+T59	Habitat 1873 1887	biotic surface
+*	Equiv T13 T12

@@ -1,0 +1,25 @@
+T3	Phenotype 262 275	Gram-positive
+T4	Phenotype 280 293	Gram-negative
+T5	Microorganism 357 378	Staphylococcus aureus
+T6	Habitat 523 531	clinical
+T7	Habitat 555 686	clinical materials (amniotic fluid, intrauterine secretions, exudates of the pelvic dead space) of patients with various infections
+T8	Habitat 575 589	amniotic fluid
+T9	Habitat 591 603	intrauterine
+T10	Habitat 616 649	exudates of the pelvic dead space
+T11	Habitat 632 649	pelvic dead space
+T12	Habitat 654 686	patients with various infections
+T13	Habitat 903 907	body
+T14	Habitat 903 914	body fluids
+T15	Habitat 919 926	genital
+T16	Habitat 919 934	genital tissues
+T17	Habitat 990 997	tissues
+T18	Habitat 1008 1014	tissue
+T19	Phenotype 1137 1146	pathogens
+T20	Habitat 1756 1771	genital tissues
+T21	Habitat 1756 1763	genital
+T22	Phenotype 1820 1833	Gram-positive
+T23	Phenotype 1834 1839	cocci
+T24	Phenotype 1841 1854	Gram-negative
+T25	Phenotype 1868 1877	anaerobes
+T26	Habitat 1947 1976	women with genital infections
+T27	Habitat 1958 1965	genital

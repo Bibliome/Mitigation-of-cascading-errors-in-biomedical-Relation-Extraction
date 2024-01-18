@@ -1,0 +1,95 @@
+T3	Microorganism 10 29	Helicobacter pylori
+T4	Microorganism 10 29	Helicobacter pylori
+T5	Microorganism 10 29	Helicobacter pylori
+T6	Habitat 86 93	gastric
+T7	Habitat 86 93	gastric
+T8	Habitat 86 93	gastric
+T9	Geographical 104 109	Japan
+T10	Geographical 104 109	Japan
+T11	Geographical 104 109	Japan
+T12	Habitat 128 135	gastric
+T13	Habitat 128 135	gastric
+T14	Habitat 128 135	gastric
+T15	Microorganism 165 184	Helicobacter pylori
+T16	Microorganism 165 184	Helicobacter pylori
+T17	Microorganism 165 184	Helicobacter pylori
+T18	Geographical 197 202	Japan
+T19	Geographical 197 202	Japan
+T20	Geographical 197 202	Japan
+T21	Microorganism 250 259	H. pylori
+T22	Microorganism 250 259	H. pylori
+T23	Microorganism 250 259	H. pylori
+T24	Habitat 343 350	gastric
+T25	Habitat 416 443	H. pylori-positive subjects
+T26	Microorganism 416 425	H. pylori
+T27	Habitat 452 479	H. pylori-negative subjects
+T28	Microorganism 452 461	H. pylori
+T29	Habitat 527 541	gastric mucosa
+T30	Habitat 527 534	gastric
+T31	Habitat 527 534	gastric
+T32	Habitat 527 534	gastric
+T33	Habitat 527 541	gastric mucosa
+T34	Habitat 527 541	gastric mucosa
+T35	Habitat 555 581	H. pylori-infected monkeys
+T36	Habitat 555 581	H. pylori-infected monkeys
+T37	Habitat 555 581	H. pylori-infected monkeys
+T38	Microorganism 555 564	H. pylori
+T39	Microorganism 555 564	H. pylori
+T40	Microorganism 555 564	H. pylori
+T41	Habitat 596 611	control monkeys
+T42	Habitat 596 611	control monkeys
+T43	Habitat 596 611	control monkeys
+T44	Microorganism 646 655	H. pylori
+T45	Habitat 676 684	children
+T46	Habitat 705 719	gastric mucosa
+T47	Habitat 705 712	gastric
+T48	Microorganism 770 779	H. pylori
+T49	Microorganism 770 779	H. pylori
+T50	Microorganism 770 779	H. pylori
+T51	Habitat 802 809	gastric
+T52	Habitat 871 878	gastric
+T53	Microorganism 947 956	H. pylori
+T54	Microorganism 947 956	H. pylori
+T55	Microorganism 947 956	H. pylori
+T56	Habitat 965 996	patients with chronic gastritis
+T57	Habitat 965 996	patients with chronic gastritis
+T58	Habitat 965 996	patients with chronic gastritis
+T59	Habitat 965 978;1001 1015	patients with gastric cancer
+T60	Habitat 1001 1008	gastric
+T61	Habitat 1001 1008	gastric
+T62	Habitat 1001 1008	gastric
+T63	Geographical 1019 1024	Japan
+T64	Geographical 1019 1024	Japan
+T65	Geographical 1019 1024	Japan
+T66	Microorganism 1048 1057	H. pylori
+T67	Microorganism 1048 1057	H. pylori
+T68	Microorganism 1048 1057	H. pylori
+T69	Habitat 1061 1099	young Japanese gastric cancer patients
+T70	Habitat 1076 1083	gastric
+T71	Habitat 1076 1083	gastric
+T72	Habitat 1076 1083	gastric
+T73	Habitat 1137 1150	control group
+T74	Microorganism 1181 1190	H. pylori
+T75	Microorganism 1181 1190	H. pylori
+T76	Microorganism 1181 1190	H. pylori
+T77	Habitat 1231 1238	gastric
+T78	Habitat 1249 1270	young Japanese people
+T79	Habitat 1249 1270	young Japanese people
+T80	Habitat 1249 1270	young Japanese people
+T81	Microorganism 1309 1318	H. pylori
+T82	Habitat 1360 1367	gastric
+T83	Habitat 1360 1374	gastric mucosa
+T84	Habitat 1400 1407	gastric
+T85	Microorganism 1552 1561	H. pylori
+T86	Microorganism 1552 1561	H. pylori
+T87	Microorganism 1552 1561	H. pylori
+R1	Lives_In Microorganism:T4 Location:T11
+R2	Lives_In Microorganism:T16 Location:T19
+R3	Lives_In Microorganism:T26 Location:T25
+R4	Lives_In Microorganism:T40 Location:T36
+R5	Lives_In Microorganism:T44 Location:T45
+R6	Lives_In Microorganism:T53 Location:T57
+R7	Lives_In Microorganism:T54 Location:T59
+R8	Lives_In Microorganism:T53 Location:T64
+R9	Lives_In Microorganism:T67 Location:T69
+R10	Lives_In Microorganism:T76 Location:T78

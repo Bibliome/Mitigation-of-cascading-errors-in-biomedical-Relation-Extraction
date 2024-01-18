@@ -1,0 +1,23 @@
+T3	Microorganism 66 92	Mycobacterium tuberculosis
+T4	Habitat 124 139	apoptotic cells
+T5	Habitat 183 186	DCs
+T6	Microorganism 459 485	Mycobacterium tuberculosis
+T7	Microorganism 487 490	Mtb
+T8	Habitat 562 564	DC
+T9	Habitat 616 619	DCs
+T10	Habitat 667 669	DC
+T11	Habitat 700 723	Annexin1-deficient mice
+T12	Microorganism 751 754	Mtb
+T13	Microorganism 788 791	Mtb
+T14	Habitat 809 820	CD8+ T cell
+T15	Microorganism 893 896	Mtb
+T16	Habitat 893 938	Mtb-infected human blood monocyte-derived DCs
+T17	Habitat 893 917	Mtb-infected human blood
+T18	Habitat 906 911	human
+T19	Habitat 906 926	human blood monocyte
+T20	Microorganism 1024 1027	Mtb
+T21	Microorganism 1105 1108	Mtb
+T22	Habitat 1145 1147	DC
+R1	Lives_In Microorganism:T12 Location:T11
+R2	Lives_In Microorganism:T15 Location:T17
+R3	Lives_In Microorganism:T15 Location:T18

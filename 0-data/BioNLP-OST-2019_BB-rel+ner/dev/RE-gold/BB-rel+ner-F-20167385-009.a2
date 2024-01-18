@@ -1,0 +1,15 @@
+T1	Microorganism 0 9	B. linens
+T2	Habitat 38 44;70 76	Casera cheese
+T3	Habitat 38 44;70 86	Casera cheese  surfaces
+T4	Habitat 46 56;70 86	Gorgonzola cheese  surfaces
+T5	Habitat 46 56;70 76	Gorgonzola cheese
+T6	Habitat 61 76	Scimudin cheese
+T7	Habitat 61 86	Scimudin cheese  surfaces
+T8	Habitat 185 198	smear cheeses
+R1	Lives_In Microorganism:T1 Location:T5
+R2	Lives_In Microorganism:T1 Location:T6
+R3	Lives_In Microorganism:T1 Location:T7
+R4	Lives_In Microorganism:T1 Location:T4
+R5	Lives_In Microorganism:T1 Location:T8
+R6	Lives_In Microorganism:T1 Location:T3
+R7	Lives_In Microorganism:T1 Location:T2

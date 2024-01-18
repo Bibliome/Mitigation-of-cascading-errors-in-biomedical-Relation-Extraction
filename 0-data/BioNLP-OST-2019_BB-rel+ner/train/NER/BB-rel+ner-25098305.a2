@@ -1,0 +1,36 @@
+T3	Habitat 17 40	upper respiratory tract
+T4	Microorganism 53 63	Mycoplasma
+T5	Habitat 67 96	free-ranging gopher tortoises
+T6	Habitat 98 117	Gopherus polyphemus
+T7	Geographical 122 129	Georgia
+T8	Geographical 131 134	USA
+T9	Habitat 145 168	Upper respiratory tract
+T10	Habitat 191 206	gopher tortoise
+T11	Habitat 208 227	Gopherus polyphemus
+T12	Habitat 399 432	Georgia, USA tortoise populations
+T13	Geographical 399 406	Georgia
+T14	Geographical 408 411	USA
+T15	Microorganism 476 496	Mycoplasma agassizii
+T16	Microorganism 501 523	Mycoplasma testudineum
+T17	Habitat 578 606	Georgia tortoise populations
+T18	Geographical 578 585	Georgia
+T19	Microorganism 640 652	M. agassizii
+T20	Microorganism 827 841	M. testudineum
+T21	Habitat 925 934	tortoises
+T22	Phenotype 959 968	pathogens
+T23	Habitat 1018 1027	tortoises
+T24	Habitat 1086 1095	tortoises
+T25	Habitat 1138 1147	tortoises
+T26	Microorganism 1172 1186	M. testudineum
+T27	Phenotype 1249 1262	pathogenicity
+T28	Habitat 1267 1283	gopher tortoises
+T29	Microorganism 1329 1341	M. agassizii
+T30	Microorganism 1346 1360	M. testudineum
+T31	Habitat 1376 1415	Georgia populations of gopher tortoises
+T32	Geographical 1376 1383	Georgia
+T33	Phenotype 1480 1489	pathogens
+T34	Phenotype 1576 1585	pathogens
+T35	Phenotype 1607 1616	pathogens
+T36	Habitat 1643 1663	tortoise populations
+T37	Habitat 1732 1741	tortoises
+*	Equiv T5 T6

@@ -1,0 +1,30 @@
+T3	Microorganism 13 34	Staphylococcus aureus
+T4	Microorganism 45 49	MRSA
+T5	Phenotype 45 49	MRSA
+T6	Habitat 53 93	environmental surfaces in a jail setting
+T7	Habitat 81 85	jail
+T8	Habitat 107 111	jail
+T9	Habitat 107 134	jail environmental surfaces
+T10	Phenotype 195 216	methicillin-resistant
+T11	Microorganism 217 238	Staphylococcus aureus
+T12	Microorganism 240 244	MRSA
+T13	Phenotype 240 244	MRSA
+T14	Habitat 283 319	primary and secondary mannitol salts
+T15	Habitat 324 358	oxacillin-resistant screening agar
+T16	Phenotype 324 343	oxacillin-resistant
+T17	Microorganism 391 400	S. aureus
+T18	Phenotype 426 437;448 458	methicillin resistance
+T19	Phenotype 438 458	oxacillin resistance
+T20	Microorganism 473 482	S. aureus
+T21	Microorganism 535 539	MRSA
+T22	Phenotype 535 539	MRSA
+T23	Phenotype 588 597	resistant
+T24	Habitat 705 719	inmates' nasal
+T25	Habitat 705 712	inmates
+T26	Microorganism 739 743	MRSA
+T27	Phenotype 739 743	MRSA
+T28	Habitat 857 880	correctional facilities
+T29	Microorganism 948 952	MRSA
+T30	Phenotype 948 952	MRSA
+*	Equiv T10 T13
+*	Equiv T12 T11

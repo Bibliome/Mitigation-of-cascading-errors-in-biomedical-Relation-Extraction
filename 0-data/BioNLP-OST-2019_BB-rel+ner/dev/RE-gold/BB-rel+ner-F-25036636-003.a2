@@ -1,0 +1,24 @@
+T1	Habitat 20 26	cheese
+T2	Microorganism 75 96	Brevibacterium linens
+T3	Microorganism 284 300	γ-Proteobacteria
+T4	Habitat 304 311	cheeses
+T5	Geographical 322 328	Europe
+T6	Geographical 333 346	North America
+T7	Microorganism 427 449	Pseudoalteromonas spp.
+T8	Habitat 512 519	cheeses
+T9	Microorganism 529 546	Pseudoalteromonas
+T10	Microorganism 587 617	Pseudoalteromonas haloplanktis
+T11	Microorganism 671 688	Pseudoalteromonas
+T12	Phenotype 711 723	cold-adapted
+T13	Habitat 753 767	polar seawater
+R1	Lives_In Microorganism:T2 Location:T1
+R2	Lives_In Microorganism:T3 Location:T4
+R3	Lives_In Microorganism:T3 Location:T6
+R4	Lives_In Microorganism:T3 Location:T5
+R5	Lives_In Microorganism:T7 Location:T6
+R6	Lives_In Microorganism:T7 Location:T5
+R7	Lives_In Microorganism:T7 Location:T4
+R8	Lives_In Microorganism:T9 Location:T8
+R9	Lives_In Microorganism:T10 Location:T8
+R10	Lives_In Microorganism:T11 Location:T13
+R11	Exhibits Microorganism:T11 Property:T12

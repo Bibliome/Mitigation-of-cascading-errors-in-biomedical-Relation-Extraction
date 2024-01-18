@@ -1,0 +1,18 @@
+T3	Phenotype 32 56	beta-lactamase-producing
+T4	Microorganism 57 76	Salmonella enterica
+T5	Geographical 80 94	northern Spain
+T6	Habitat 140 147	animals
+T7	Habitat 152 158	humans
+T8	Microorganism 175 194	Salmonella enterica
+T9	Habitat 220 237	Spanish hospitals
+T10	Microorganism 271 278	Virchow
+T11	Microorganism 286 297	Livingstone
+T12	Phenotype 328 376	extended-spectrum beta-lactamase (ESBL) producer
+T13	Microorganism 422 445	S. enterica Livingstone
+T14	Microorganism 553 572	S. enterica Virchow
+T15	Microorganism 666 673	Virchow
+T16	Habitat 909 916	animals
+T17	Phenotype 918 933	ESBL production
+T18	Phenotype 962 972	resistance
+T19	Microorganism 976 987	S. enterica
+T20	Habitat 1007 1016	hospitals

@@ -1,0 +1,22 @@
+T6	Microorganism 20 42	Salmonella Paratyphi A
+T7	Habitat 59 76	israeli travelers
+T8	Geographical 80 85	Nepal
+T9	Geographical 90 94	Asia
+T10	Microorganism 96 118	Salmonella Paratyphi A
+T11	Habitat 149 158	travelers
+T12	Microorganism 235 249	S. Paratyphi A
+T13	Habitat 273 290	Israeli travelers
+T14	Geographical 306 311	Nepal
+T15	Habitat 402 410	patients
+T16	Phenotype 467 495	antimicrobial susceptibility
+T17	Habitat 584 601	Israeli travelers
+T18	Geographical 617 622	Nepal
+T19	Microorganism 643 657	S. Paratyphi A
+T20	Phenotype 738 762	nalidixic acid resistant
+T21	Habitat 771 781	food venue
+T22	Habitat 771 775	food
+T23	Habitat 903 911	patients
+T24	Habitat 973 1035	patients treated with ceftriaxone and azithromycin combination
+T25	Habitat 1072 1114	cases treated with ceftriaxone monotherapy
+T26	Habitat 1244 1261	Israeli travelers
+T27	Geographical 1265 1270	Nepal

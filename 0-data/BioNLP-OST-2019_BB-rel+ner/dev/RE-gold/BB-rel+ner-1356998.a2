@@ -1,0 +1,38 @@
+T3	Habitat 0 5	Human
+T4	Habitat 10 14	tick
+T5	Microorganism 15 34	spotted fever group
+T6	Microorganism 35 45	Rickettsia
+T7	Geographical 60 66	Israel
+T8	Microorganism 105 124	spotted fever group
+T9	Microorganism 125 136	rickettsiae
+T10	Geographical 181 187	Israel
+T11	Habitat 198 203	ticks
+T12	Habitat 218 224	humans
+T13	Habitat 387 392	human
+T14	Habitat 421 497	patients suffering from rickettsial disease of different degrees of severity
+T15	Geographical 738 745	Israeli
+T16	Microorganism 769 787	Rickettsia conorii
+T17	Geographical 850 857	Israeli
+T18	Microorganism 879 907;922 927	R. conorii reference strains no. 7
+T19	Microorganism 879 907;909 917	R. conorii reference strains Moroccan
+T20	Geographical 1037 1044	Israeli
+T21	Geographical 1143 1150	Israeli
+T22	Microorganism 1151 1170	spotted fever group
+T23	Habitat 1191 1196	ticks
+T24	Habitat 1201 1207	humans
+T25	Microorganism 1375 1385	R. conorii
+R1	Lives_In Microorganism:T5 Location:T4
+R2	Lives_In Microorganism:T5 Location:T3
+R3	Lives_In Microorganism:T6 Location:T3
+R4	Lives_In Microorganism:T6 Location:T4
+R5	Lives_In Microorganism:T6 Location:T7
+R6	Lives_In Microorganism:T9 Location:T12
+R7	Lives_In Microorganism:T9 Location:T15
+R8	Lives_In Microorganism:T9 Location:T14
+R9	Lives_In Microorganism:T9 Location:T11
+R10	Lives_In Microorganism:T9 Location:T10
+R11	Lives_In Microorganism:T9 Location:T20
+R12	Lives_In Microorganism:T9 Location:T17
+R13	Lives_In Microorganism:T22 Location:T21
+R14	Lives_In Microorganism:T22 Location:T23
+R15	Lives_In Microorganism:T22 Location:T24

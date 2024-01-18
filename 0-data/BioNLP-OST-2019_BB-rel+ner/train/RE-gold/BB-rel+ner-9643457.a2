@@ -1,0 +1,18 @@
+T3	Habitat 31 41	neutrophil
+T4	Microorganism 106 122	Escherichia coli
+T5	Habitat 135 141	cattle
+T6	Habitat 149 161	healthy cows
+T7	Habitat 163 173	neutrophil
+T8	Microorganism 285 301	Escherichia coli
+T9	Phenotype 353 366	Gram-negative
+T10	Habitat 403 414	neutrophils
+T11	Habitat 519 551	neutrophils with enzyme activity
+T12	Habitat 635 639	cows
+T13	Habitat 685 717	neutrophils with enzyme activity
+T14	Microorganism 1054 1061	E. coli
+T15	Habitat 1265 1275	neutrophil
+T16	Habitat 1313 1345	neutrophils with enzyme activity
+T17	Habitat 1476 1501	severely diseased animals
+R1	Lives_In Microorganism:T4 Location:T5
+R2	Lives_In Microorganism:T8 Location:T6
+R3	Exhibits Microorganism:T8 Property:T9

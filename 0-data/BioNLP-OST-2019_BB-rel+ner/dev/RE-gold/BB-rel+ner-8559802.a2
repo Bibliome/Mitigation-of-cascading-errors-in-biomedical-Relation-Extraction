@@ -1,0 +1,10 @@
+T3	Microorganism 71 93	Salmonella typhimurium
+T4	Phenotype 141 155	drug-resistant
+T5	Microorganism 166 194	Salmonella typhimurium (993)
+T6	Phenotype 256 267	wild strain
+T7	Microorganism 271 281	Salmonella
+T8	Microorganism 295 298	993
+T9	Phenotype 371 391	ampicillin-resistant
+T10	Microorganism 620 634	S. typhimurium
+R1	Exhibits Microorganism:T5 Property:T4
+R2	Exhibits Microorganism:T7 Property:T6

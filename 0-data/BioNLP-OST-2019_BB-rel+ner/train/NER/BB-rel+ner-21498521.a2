@@ -1,0 +1,17 @@
+T3	Microorganism 17 32	Vibrio fischeri
+T4	Microorganism 106 121	Vibrio fischeri
+T5	Phenotype 125 139	bioluminescent
+T6	Habitat 140 146	marine
+T7	Phenotype 171 203	exclusive symbiotic relationship
+T8	Habitat 213 235	Hawaiian bobtail squid
+T9	Habitat 237 254	Euprymna scolopes
+T10	Habitat 262 273	light organ
+T11	Microorganism 371 382	V. fischeri
+T12	Habitat 424 452	juvenile squid's light organ
+T13	Habitat 424 438	juvenile squid
+T14	Microorganism 586 603	V. fischeri ES114
+T15	Habitat 682 766	microheterogeneous mixture of mono- and diphosphorylated diglucosamine disaccharides
+T16	Microorganism 1691 1702	V. fischeri
+T17	Habitat 1739 1750	E. scolopes
+T18	Phenotype 1768 1777	symbiotic
+*	Equiv T9 T8

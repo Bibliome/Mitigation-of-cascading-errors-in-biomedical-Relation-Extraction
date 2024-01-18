@@ -1,0 +1,11 @@
+T3	Microorganism 43 64	Staphylococcus aureus
+T4	Phenotype 93 102	Pathogens
+T5	Habitat 163 170	mammals
+T6	Phenotype 234 243	pathogens
+T7	Phenotype 355 370	human pathogens
+T8	Habitat 355 360	human
+T9	Microorganism 372 393	Staphylococcus aureus
+T10	Microorganism 723 732	S. aureus
+T11	Phenotype 866 875	pathogens
+R1	Lives_In Microorganism:T9 Location:T8
+R2	Exhibits Microorganism:T9 Property:T7

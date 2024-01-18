@@ -1,0 +1,71 @@
+T5	Habitat 0 11	Neutrophils
+T6	Microorganism 29 37	Yersinia
+T7	Habitat 99 103	cell
+T8	Phenotype 117 135	type III secretion
+T9	Habitat 148 153	human
+T10	Habitat 148 174	human innate immune system
+T11	Habitat 213 224	macrophages
+T12	Habitat 229 257	polymorphonuclear leukocytes
+T13	Habitat 259 270	neutrophils
+T14	Habitat 274 278	PMNs
+T15	Phenotype 300 319	bacterial pathogens
+T16	Microorganism 321 329	Yersinia
+T17	Habitat 390 396	humans
+T18	Microorganism 417 425	Yersinia
+T19	Microorganism 446 455	Y. pestis
+T20	Microorganism 460 481	Y. pseudotuberculosis
+T21	Microorganism 493 510	Y. enterocolitica
+T22	Habitat 540 558	murine macrophages
+T23	Habitat 540 546;563 578	murine dendritic cells
+T24	Habitat 540 546	murine
+T25	Microorganism 604 612	Yersinia
+T26	Habitat 624 634	neutrophil
+T27	Phenotype 692 701	wild-type
+T28	Phenotype 706 712	mutant
+T29	Microorganism 724 732	Yersinia
+T30	Habitat 804 838	human monocyte-derived macrophages
+T31	Habitat 804 809	human
+T32	Habitat 840 844	HMDM
+T33	Habitat 850 861	neutrophils
+T34	Habitat 916 921	HMDMs
+T35	Habitat 938 955	human neutrophils
+T36	Habitat 938 943	human
+T37	Phenotype 961 970	virulence
+T38	Microorganism 990 998	Yersinia
+T39	Habitat 1017 1020	PMN
+T40	Habitat 1100 1103	PMN
+T41	Habitat 1142 1152	human PMNs
+T42	Habitat 1142 1147	human
+T43	Phenotype 1162 1171	virulence
+T44	Microorganism 1190 1211	Y. pestis strain KIM6
+T45	Habitat 1282 1286	cell
+T46	Habitat 1294 1297	PMN
+T47	Phenotype 1358 1367	virulence
+T48	Microorganism 1458 1479	Y. pestis strain KIM6
+T49	Habitat 1495 1498	PMN
+T50	Habitat 1575 1583	PMN cell
+T51	Phenotype 1621 1630	virulence
+T52	Microorganism 1657 1671	Y. pestis KIM5
+T53	Microorganism 1698 1706	Yersinia
+T54	Habitat 1763 1780	human neutrophils
+T55	Habitat 1763 1768	human
+T56	Habitat 1802 1805	PMN
+T57	Phenotype 1836 1845	virulence
+T58	Microorganism 1864 1872	Yersinia
+T59	Habitat 1903 1911	PMN cell
+T60	Microorganism 1935 1943	Yersinia
+T61	Habitat 1958 1961	PMN
+T62	Habitat 2008 2013	human
+T63	Habitat 2057 2060	PMN
+R1	Lives_In Microorganism:T16 Location:T17
+R2	Exhibits Microorganism:T16 Property:T15
+R3	Exhibits Microorganism:T18 Property:T15
+R4	Exhibits Microorganism:T19 Property:T15
+R5	Exhibits Microorganism:T20 Property:T15
+R6	Exhibits Microorganism:T21 Property:T15
+R7	Lives_In Microorganism:T29 Location:T31
+R8	Exhibits Microorganism:T29 Property:T27
+R9	Lives_In Microorganism:T38 Location:T36
+R10	Exhibits Microorganism:T38 Property:T37
+R11	Exhibits Microorganism:T52 Property:T51
+R12	Lives_In Microorganism:T60 Location:T62

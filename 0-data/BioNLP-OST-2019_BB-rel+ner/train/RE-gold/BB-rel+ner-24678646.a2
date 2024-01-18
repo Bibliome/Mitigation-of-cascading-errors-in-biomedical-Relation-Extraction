@@ -1,0 +1,77 @@
+T6	Phenotype 37 58	methicillin-resistant
+T7	Microorganism 59 80	Staphylococcus aureus
+T8	Phenotype 82 86	MRSA
+T9	Microorganism 82 86	MRSA
+T10	Phenotype 92 112	vancomycin-resistant
+T11	Microorganism 113 125	Enterococcus
+T12	Phenotype 127 130	VRE
+T13	Microorganism 127 130	VRE
+T14	Phenotype 241 262	methicillin-resistant
+T15	Microorganism 263 284	Staphylococcus aureus
+T16	Phenotype 286 290	MRSA
+T17	Microorganism 286 290	MRSA
+T18	Phenotype 295 315	vancomycin-resistant
+T19	Microorganism 316 328	Enterococcus
+T20	Phenotype 330 333	VRE
+T21	Microorganism 330 333	VRE
+T22	Habitat 401 408	patient
+T23	Phenotype 553 557	MRSA
+T24	Microorganism 553 557	MRSA
+T25	Phenotype 562 565	VRE
+T26	Microorganism 562 565	VRE
+T27	Phenotype 658 662	MRSA
+T28	Microorganism 658 662	MRSA
+T29	Phenotype 834 837	VRE
+T30	Microorganism 834 837	VRE
+T31	Phenotype 1268 1272	MRSA
+T32	Microorganism 1268 1272	MRSA
+T33	Phenotype 1290 1293	VRE
+T34	Microorganism 1290 1293	VRE
+T35	Phenotype 1413 1417	MRSA
+T36	Microorganism 1413 1417	MRSA
+T37	Habitat 1413 1436	MRSA-colonized patients
+T38	Phenotype 1454 1457	VRE
+T39	Microorganism 1454 1457	VRE
+T40	Habitat 1454 1476	VRE-colonized patients
+T41	Phenotype 1523 1527	MRSA
+T42	Microorganism 1523 1527	MRSA
+T43	Phenotype 1532 1535	VRE
+T44	Microorganism 1532 1535	VRE
+T45	Phenotype 1599 1603	MRSA
+T46	Microorganism 1599 1603	MRSA
+T47	Phenotype 1651 1654	VRE
+T48	Microorganism 1651 1654	VRE
+T49	Phenotype 1755 1759	MRSA
+T50	Microorganism 1755 1759	MRSA
+T51	Phenotype 1950 1954	MRSA
+T52	Microorganism 1950 1954	MRSA
+T53	Phenotype 1959 1962	VRE
+T54	Microorganism 1959 1962	VRE
+R1	Exhibits Microorganism:T7 Property:T6
+R2	Exhibits Microorganism:T9 Property:T8
+R3	Exhibits Microorganism:T11 Property:T10
+R4	Exhibits Microorganism:T13 Property:T12
+R6	Lives_In Microorganism:T15 Location:T22
+R5	Exhibits Microorganism:T15 Property:T14
+R7	Exhibits Microorganism:T17 Property:T16
+R9	Lives_In Microorganism:T19 Location:T22
+R8	Exhibits Microorganism:T19 Property:T18
+R10	Exhibits Microorganism:T21 Property:T20
+R11	Exhibits Microorganism:T24 Property:T23
+R12	Exhibits Microorganism:T26 Property:T25
+R13	Exhibits Microorganism:T28 Property:T27
+R14	Exhibits Microorganism:T30 Property:T29
+R15	Exhibits Microorganism:T32 Property:T31
+R16	Exhibits Microorganism:T34 Property:T33
+R18	Lives_In Microorganism:T36 Location:T37
+R17	Exhibits Microorganism:T36 Property:T35
+R20	Lives_In Microorganism:T39 Location:T40
+R19	Exhibits Microorganism:T39 Property:T38
+R21	Exhibits Microorganism:T42 Property:T41
+R22	Exhibits Microorganism:T44 Property:T43
+R23	Exhibits Microorganism:T46 Property:T45
+R24	Exhibits Microorganism:T50 Property:T49
+R25	Exhibits Microorganism:T52 Property:T51
+R26	Exhibits Microorganism:T54 Property:T53
+*	Equiv T21 T19
+*	Equiv T17 T15
