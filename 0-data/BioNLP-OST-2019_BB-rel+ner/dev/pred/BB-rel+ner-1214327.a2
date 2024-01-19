@@ -5,6 +5,6 @@ T231733928	Habitat 480 485	water
 T1281604740	Habitat 490 502	fish samples
 T2082353865	Habitat 656 661	areas
 T8268900	Microorganism 13 19	Vibrio
-R693345846	Lives_In Microorganism:T8268900 Location:T1058183578
-R854989361	Lives_In Microorganism:T8268900 Location:T610816085
-R257718694	Lives_In Microorganism:T8268900 Location:T1281604740
+R596333086	Lives_In Microorganism:T8268900 Location:T1058183578
+R456785282	Lives_In Microorganism:T8268900 Location:T610816085
+R1043317832	Lives_In Microorganism:T8268900 Location:T1281604740

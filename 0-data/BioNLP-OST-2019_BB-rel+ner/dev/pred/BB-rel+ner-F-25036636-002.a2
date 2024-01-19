@@ -1,5 +1,5 @@
 T106799559	Habitat 48 54	marine
 T2032230524	Habitat 122 128	cheese
 T162667475	Microorganism 65 82	Pseudoalteromonas
-R1691858720	Lives_In Microorganism:T162667475 Location:T106799559
-R807872790	Lives_In Microorganism:T162667475 Location:T2032230524
+R1531175283	Lives_In Microorganism:T162667475 Location:T106799559
+R687399269	Lives_In Microorganism:T162667475 Location:T2032230524

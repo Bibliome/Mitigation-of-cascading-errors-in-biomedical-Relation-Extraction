@@ -6,5 +6,5 @@ T1943275118	Microorganism 71 81	Salmonella
 T1513071903	Microorganism 166 176	Salmonella
 T580965610	Microorganism 271 281	Salmonella
 T435626542	Microorganism 620 634	S. typhimurium
-R653345773	Lives_In Microorganism:T1513071903 Location:T1064456966
-R1008612116	Lives_In Microorganism:T580965610 Location:T1064456966
+R234223040	Lives_In Microorganism:T1513071903 Location:T1064456966
+R814377348	Lives_In Microorganism:T580965610 Location:T1064456966

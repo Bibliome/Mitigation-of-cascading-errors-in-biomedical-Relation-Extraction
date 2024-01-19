@@ -12,6 +12,6 @@ T1693580552	Microorganism 722 731	H. pylori
 T1799316869	Microorganism 817 826	H. pylori
 T1172417096	Microorganism 1092 1101	H. pylori
 T1825662118	Microorganism 1379 1388	H. pylori
-R817941759	Lives_In Microorganism:T1988664928 Location:T870472895
-R1478334108	Lives_In Microorganism:T1813375175 Location:T961820571
-R36550900	Lives_In Microorganism:T1825662118 Location:T2072005776
+R626626764	Lives_In Microorganism:T1988664928 Location:T870472895
+R1372137902	Lives_In Microorganism:T1813375175 Location:T961820571
+R1015799131	Lives_In Microorganism:T1825662118 Location:T2072005776

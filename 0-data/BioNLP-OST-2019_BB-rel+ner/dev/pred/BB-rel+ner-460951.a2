@@ -4,5 +4,5 @@ T1002378977	Habitat 375 383	children
 T1078207659	Habitat 463 484	superficial abscesses
 T1864007931	Microorganism 417 429	M. fortuitum
 T1512273713	Microorganism 530 541	M. ulcerans
-R977650730	Lives_In Microorganism:T1864007931 Location:T1078207659
-R920446957	Lives_In Microorganism:T1512273713 Location:T1078207659
+R1240412896	Lives_In Microorganism:T1864007931 Location:T1078207659
+R656349395	Lives_In Microorganism:T1512273713 Location:T1078207659

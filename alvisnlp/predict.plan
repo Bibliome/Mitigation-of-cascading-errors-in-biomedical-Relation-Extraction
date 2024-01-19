@@ -38,7 +38,7 @@
 
   <a2>
     <entities class="TabularExport">
-      <outDir>.</outDir>
+      <outDir>pred</outDir>
       <files>documents.sections</files>
       <fileName>document.@id ^ ".a2"</fileName>
       <lines>(layer:Habitat|layer:Phenotype|layer:Microorganism)</lines>
