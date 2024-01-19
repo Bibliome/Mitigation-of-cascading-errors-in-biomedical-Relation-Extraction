@@ -5,7 +5,7 @@ T776160876	Phenotype 108 114	motile
 T480118726	Microorganism 28 40	Marinobacter
 T1929447269	Microorganism 42 54	Marinobacter
 T722513129	Microorganism 78 97	Gammaproteobacteria
-R331748029	Lives_In Microorganism:T480118726 Location:T1295920381
-R1056185446	Lives_In Microorganism:T1929447269 Location:T1230863667
-R1802736936	Lives_In Microorganism:T1929447269 Location:T1111215020
-R1647243882	Lives_In Microorganism:T1929447269 Location:T1295920381
+R980533504	Lives_In Microorganism:T480118726 Location:T1295920381
+R1533672820	Lives_In Microorganism:T1929447269 Location:T1230863667
+R254955665	Lives_In Microorganism:T1929447269 Location:T1111215020
+R1132369181	Lives_In Microorganism:T1929447269 Location:T1295920381

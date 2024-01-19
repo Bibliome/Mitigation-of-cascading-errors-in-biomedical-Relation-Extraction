@@ -21,8 +21,8 @@ T1428664849	Microorganism 100 109	Chlamydia
 T1422883946	Microorganism 255 264	chlamydia
 T1349872758	Microorganism 551 563	C. muridarum
 T1744032146	Microorganism 953 962	Chlamydia
-R426288284	Lives_In Microorganism:T1183701566 Location:T278848748
-R1780399359	Lives_In Microorganism:T1349872758 Location:T2013332834
-R428245792	Lives_In Microorganism:T1349872758 Location:T919514326
-R1353759820	Lives_In Microorganism:T1349872758 Location:T652258293
-R203472514	Lives_In Microorganism:T1349872758 Location:T950729555
+R295055909	Lives_In Microorganism:T1183701566 Location:T278848748
+R1060935276	Lives_In Microorganism:T1349872758 Location:T2013332834
+R300811000	Lives_In Microorganism:T1349872758 Location:T919514326
+R1090695601	Lives_In Microorganism:T1349872758 Location:T652258293
+R1638249646	Lives_In Microorganism:T1349872758 Location:T950729555

@@ -10,7 +10,7 @@ T131124498	Habitat 712 732	urine of LL patients
 T1569163468	Habitat 721 732	LL patients
 T886343183	Microorganism 40 53	Mycobacterium
 T1716855490	Microorganism 163 176	Mycobacterium
-R1671816300	Lives_In Microorganism:T886343183 Location:T527736826
-R2123269713	Lives_In Microorganism:T886343183 Location:T344578305
-R1240412896	Lives_In Microorganism:T1716855490 Location:T1095905974
-R656349395	Lives_In Microorganism:T1716855490 Location:T1763057786
+R779018428	Lives_In Microorganism:T886343183 Location:T527736826
+R1107404311	Lives_In Microorganism:T886343183 Location:T344578305
+R1182758821	Lives_In Microorganism:T1716855490 Location:T1095905974
+R465152579	Lives_In Microorganism:T1716855490 Location:T1763057786

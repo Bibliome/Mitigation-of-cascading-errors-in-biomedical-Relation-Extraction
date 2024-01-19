@@ -43,22 +43,30 @@
       <fileName>document.@id ^ ".a2"</fileName>
       <lines>(layer:Habitat|layer:Phenotype|layer:Microorganism)</lines>
       <columns separator=";">
-      @id;
-      @type ^ " " ^ start ^ " " ^ end;
-      str:normalizeSpace(@form)
+	@id;
+	@type ^ " " ^ start ^ " " ^ end;
+	str:normalizeSpace(@form)
       </columns>
     </entities>
 
-    <Lives_In class="TabularExport">
-      <append/>
-      <outDir>pred</outDir>
-      <files>documents.sections</files>
-      <fileName>document.@id ^ ".a2"</fileName>
-      <lines>relations:Lives_In.tuples</lines>
-      <columns separator=";">
-      "R" ^ id:unique;
-      "Lives_In Microorganism:" ^ args:Microorganism.@id ^ " Location:" ^ args:Location.@id
-      </columns>
+    <Lives_In>
+      <ids class="Action">
+	<target>documents.sections.relations:Lives_In.tuples</target>
+	<action>set:feat:id("R" ^ id:unique)</action>
+	<setFeatures/>
+      </ids>
+
+      <write class="TabularExport">
+	<append/>
+	<outDir>pred</outDir>
+	<files>documents.sections</files>
+	<fileName>document.@id ^ ".a2"</fileName>
+	<lines>relations:Lives_In.tuples</lines>
+	<columns separator=";">
+	  @id;
+	  "Lives_In Microorganism:" ^ args:Microorganism.@id ^ " Location:" ^ args:Location.@id
+	</columns>
+      </write>
     </Lives_In>
   </a2>
 
@@ -79,20 +87,26 @@
       @gold;
       @id;
       args:Microorganism.@id;
+      args:Microorganism.@form;
+      str:join:' '(args:Microorganism.span:Microorganism[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
+      str:join:' '(args:Microorganism.overlapping:Microorganism[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
       args:Location.@id;
-      str:join:' '(args:Microorganism.span:Microorganism[not @gold], @id);
-      str:join:' '(args:Microorganism.overlapping:Microorganism[not @gold], @id);
-      str:join:' '(args:Habitat.span:Habitat[not @gold], @id);
-      str:join:' '(args:Habitat.overlapping:Habitat[not @gold], @id)
+      args:Location.@form;
+      str:join:' '(args:Habitat.span:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
+      str:join:' '(args:Habitat.overlapping:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")")
     </columns>
     <headers>
       "DOC",
       "GOLD",
       "ID",
       "MICROORGANISM",
+      "MICROORGANISM FORM",
       "MICROORGANISM EXACT",
+      "MICROORGANISM APPROX",
       "HABITAT",
-      "HABITAT EXACT"
+      "HABITAT FORM",
+      "HABITAT EXACT",
+      "HABITAT APPROX"
     </headers>
   </argmatch>
 </alvisnlp-plan>

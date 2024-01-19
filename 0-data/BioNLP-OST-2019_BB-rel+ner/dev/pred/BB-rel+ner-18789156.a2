@@ -30,10 +30,10 @@ T2015521846	Microorganism 759 770	Francisella
 T159860059	Microorganism 1950 1961	Francisella
 T870369046	Microorganism 2189 2217	F. tularensis ssp tularensis
 T492656161	Microorganism 2512 2525	F. tularensis
-R1960253514	Lives_In Microorganism:T292856581 Location:T848311719
-R1370495328	Lives_In Microorganism:T1907808127 Location:T539880979
-R1748097277	Lives_In Microorganism:T1907808127 Location:T409393797
-R668760567	Lives_In Microorganism:T159860059 Location:T1523803699
-R1803890702	Lives_In Microorganism:T870369046 Location:T603533580
-R984567559	Lives_In Microorganism:T870369046 Location:T1647303553
-R1556061855	Lives_In Microorganism:T870369046 Location:T416016907
+R485475507	Lives_In Microorganism:T292856581 Location:T848311719
+R724028528	Lives_In Microorganism:T1907808127 Location:T539880979
+R1869247587	Lives_In Microorganism:T1907808127 Location:T409393797
+R467313213	Lives_In Microorganism:T159860059 Location:T1523803699
+R2045913001	Lives_In Microorganism:T870369046 Location:T603533580
+R1822630059	Lives_In Microorganism:T870369046 Location:T1647303553
+R1356236848	Lives_In Microorganism:T870369046 Location:T416016907
