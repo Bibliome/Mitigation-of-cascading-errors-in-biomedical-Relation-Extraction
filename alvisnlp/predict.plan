@@ -67,6 +67,7 @@
     <a2Dir>RE-gold</a2Dir>
     <textBoundAsAnnotations/>
     <constantAnnotationFeatures>gold=gold</constantAnnotationFeatures>
+    <constantTupleFeatures>gold=gold</constantTupleFeatures>
   </gold>
 
   <argmatch class="TabularExport">
@@ -84,5 +85,14 @@
       str:join:' '(args:Habitat.span:Habitat[not @gold], @id);
       str:join:' '(args:Habitat.overlapping:Habitat[not @gold], @id)
     </columns>
+    <headers>
+      "DOC",
+      "GOLD",
+      "ID",
+      "MICROORGANISM",
+      "MICROORGANISM EXACT",
+      "HABITAT",
+      "HABITAT EXACT"
+    </headers>
   </argmatch>
 </alvisnlp-plan>

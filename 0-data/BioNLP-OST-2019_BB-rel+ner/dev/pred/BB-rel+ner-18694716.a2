@@ -3,4 +3,4 @@ T2038831603	Habitat 890 900	individual
 T933795263	Habitat 963 976	intracellular
 T2115092403	Habitat 1255 1268	intracellular
 T435034854	Microorganism 1035 1066	Methylobacterium extorquens AM1
-R1290614253	Lives_In Microorganism:T435034854 Location:T933795263
+R2077662850	Lives_In Microorganism:T435034854 Location:T933795263
