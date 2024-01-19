@@ -9,9 +9,9 @@ T721671471	Microorganism 206 218	Nocardiopsis
 T937437482	Microorganism 336 342	Vibrio
 T1257703748	Microorganism 344 353	Halomonas
 T891715540	Microorganism 359 376	Pseudoalteromonas
-R1704214570	Lives_In Microorganism:T937437482 Location:T1445553378
-R821342630	Lives_In Microorganism:T937437482 Location:T1166324315
-R1079190991	Lives_In Microorganism:T1257703748 Location:T1445553378
-R1041326823	Lives_In Microorganism:T1257703748 Location:T1166324315
-R2042884127	Lives_In Microorganism:T891715540 Location:T1445553378
-R1815025408	Lives_In Microorganism:T891715540 Location:T1166324315
+R889928215	Lives_In Microorganism:T937437482 Location:T1445553378
+R3694603	Lives_In Microorganism:T937437482 Location:T1166324315
+R1721576219	Lives_In Microorganism:T1257703748 Location:T1445553378
+R1914615775	Lives_In Microorganism:T1257703748 Location:T1166324315
+R514453513	Lives_In Microorganism:T891715540 Location:T1445553378
+R1565713391	Lives_In Microorganism:T891715540 Location:T1166324315

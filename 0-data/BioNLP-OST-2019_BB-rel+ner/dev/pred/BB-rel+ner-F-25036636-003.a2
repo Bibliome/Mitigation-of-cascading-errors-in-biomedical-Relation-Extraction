@@ -7,6 +7,6 @@ T2083969860	Microorganism 427 444	Pseudoalteromonas
 T1707293586	Microorganism 529 546	Pseudoalteromonas
 T2030294088	Microorganism 587 604	Pseudoalteromonas
 T1309191417	Microorganism 671 688	Pseudoalteromonas
-R1430207342	Lives_In Microorganism:T1707293586 Location:T942237171
-R80191608	Lives_In Microorganism:T2030294088 Location:T942237171
-R1312843412	Lives_In Microorganism:T1309191417 Location:T1617690878
+R45416784	Lives_In Microorganism:T1707293586 Location:T942237171
+R364480205	Lives_In Microorganism:T2030294088 Location:T942237171
+R1807207655	Lives_In Microorganism:T1309191417 Location:T1617690878

@@ -6,4 +6,4 @@ T1799521220	Microorganism 340 352	P. crustosum
 T218654115	Microorganism 479 490	Escherichia
 T1668004795	Microorganism 631 636	a 321
 T2125346660	Microorganism 1101 1112	Penicillium
-R2008229299	Lives_In Microorganism:T1799521220 Location:T1370076828
+R1642308093	Lives_In Microorganism:T1799521220 Location:T1370076828

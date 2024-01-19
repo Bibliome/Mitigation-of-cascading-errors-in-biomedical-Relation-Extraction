@@ -7,11 +7,11 @@ T281049997	Microorganism 273 287	Staphylococcus
 T1913386579	Microorganism 289 300	Micrococcus
 T906741317	Microorganism 302 316	Brevibacterium
 T1323235180	Microorganism 322 334	Arthrobacter
-R1156210828	Lives_In Microorganism:T281049997 Location:T318264020
-R1355766307	Lives_In Microorganism:T281049997 Location:T852775018
-R1158124724	Lives_In Microorganism:T1913386579 Location:T318264020
-R658281599	Lives_In Microorganism:T1913386579 Location:T852775018
-R809860628	Lives_In Microorganism:T906741317 Location:T318264020
-R452015229	Lives_In Microorganism:T906741317 Location:T852775018
-R1663738275	Lives_In Microorganism:T1323235180 Location:T318264020
-R544628437	Lives_In Microorganism:T1323235180 Location:T852775018
+R1663738275	Lives_In Microorganism:T281049997 Location:T318264020
+R544628437	Lives_In Microorganism:T281049997 Location:T852775018
+R995631377	Lives_In Microorganism:T1913386579 Location:T318264020
+R681158875	Lives_In Microorganism:T1913386579 Location:T852775018
+R512238546	Lives_In Microorganism:T906741317 Location:T318264020
+R203048480	Lives_In Microorganism:T906741317 Location:T852775018
+R1991290395	Lives_In Microorganism:T1323235180 Location:T318264020
+R319426406	Lives_In Microorganism:T1323235180 Location:T852775018

@@ -5,8 +5,8 @@ T3768050	Microorganism 11 23	Galactomyces
 T916897446	Microorganism 227 241	Scopulariopsis
 T1156135967	Microorganism 243 254	Aspergillus
 T1110913929	Microorganism 276 290	Staphylococcus
-R889928215	Lives_In Microorganism:T3768050 Location:T2040395625
-R3694603	Lives_In Microorganism:T3768050 Location:T1437542750
-R1721576219	Lives_In Microorganism:T916897446 Location:T697723412
-R1914615775	Lives_In Microorganism:T1156135967 Location:T697723412
-R514453513	Lives_In Microorganism:T1110913929 Location:T697723412
+R1385750189	Lives_In Microorganism:T3768050 Location:T2040395625
+R1430207342	Lives_In Microorganism:T3768050 Location:T1437542750
+R80191608	Lives_In Microorganism:T916897446 Location:T697723412
+R1312843412	Lives_In Microorganism:T1156135967 Location:T697723412
+R1522119751	Lives_In Microorganism:T1110913929 Location:T697723412

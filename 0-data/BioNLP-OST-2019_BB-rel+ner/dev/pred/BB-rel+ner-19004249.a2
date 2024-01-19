@@ -5,7 +5,7 @@ T1446787409	Phenotype 204 219	human pathogens
 T364389956	Microorganism 221 235	Staphylococcus
 T542598487	Microorganism 247 258	Escherichia
 T507944445	Microorganism 308 317	S. aureus
-R508760925	Lives_In Microorganism:T364389956 Location:T675117290
-R1987354705	Lives_In Microorganism:T364389956 Location:T20084184
-R61304908	Lives_In Microorganism:T542598487 Location:T675117290
-R1733619456	Lives_In Microorganism:T542598487 Location:T20084184
+R170106909	Lives_In Microorganism:T364389956 Location:T675117290
+R1255109302	Lives_In Microorganism:T364389956 Location:T20084184
+R1969347346	Lives_In Microorganism:T542598487 Location:T675117290
+R855724043	Lives_In Microorganism:T542598487 Location:T20084184

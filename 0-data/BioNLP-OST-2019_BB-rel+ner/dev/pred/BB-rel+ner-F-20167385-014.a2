@@ -1,5 +1,5 @@
 T1747672493	Habitat 69 106	surface of Formaggio di Fossa cheese
 T2141299648	Habitat 80 99	Formaggio di Fossa
 T1544031987	Microorganism 44 57	Psychrobacter
-R1727424614	Lives_In Microorganism:T1544031987 Location:T1747672493
-R586831282	Lives_In Microorganism:T1544031987 Location:T2141299648
+R1041326823	Lives_In Microorganism:T1544031987 Location:T1747672493
+R2042884127	Lives_In Microorganism:T1544031987 Location:T2141299648

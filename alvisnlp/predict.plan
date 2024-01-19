@@ -89,11 +89,11 @@
       args:Microorganism.@id;
       args:Microorganism.@form;
       str:join:' '(args:Microorganism.span:Microorganism[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
-      str:join:' '(args:Microorganism.overlapping:Microorganism[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
+      str:join:' '(args:Microorganism.(overlapping:Microorganism|inside:Microorganism|outside:Microorganism)[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
       args:Location.@id;
       args:Location.@form;
-      str:join:' '(args:Habitat.span:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
-      str:join:' '(args:Habitat.overlapping:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")")
+      str:join:' '(args:Location.span:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
+      str:join:' '(args:Location.(overlapping:Habitat|inside:Habitat|outside:Habitat)[@gold != line.@gold], @id ^ "(" ^ @form ^ ")")
     </columns>
     <headers>
       "DOC",

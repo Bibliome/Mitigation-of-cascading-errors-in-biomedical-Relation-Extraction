@@ -2,7 +2,7 @@ T1730128062	Habitat 115 131	Proteus vulgaris
 T1332150216	Habitat 174 179	aroma
 T2047147687	Microorganism 68 82	Microbacterium
 T465869765	Microorganism 93 110	Psychrobacter sp.
-R1107772887	Lives_In Microorganism:T2047147687 Location:T1730128062
-R2115087165	Lives_In Microorganism:T2047147687 Location:T1332150216
-R1604616170	Lives_In Microorganism:T465869765 Location:T1730128062
-R596779307	Lives_In Microorganism:T465869765 Location:T1332150216
+R1415545023	Lives_In Microorganism:T2047147687 Location:T1730128062
+R1727424614	Lives_In Microorganism:T2047147687 Location:T1332150216
+R586831282	Lives_In Microorganism:T465869765 Location:T1730128062
+R1298557761	Lives_In Microorganism:T465869765 Location:T1332150216
