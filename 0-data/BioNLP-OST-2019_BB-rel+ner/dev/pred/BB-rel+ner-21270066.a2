@@ -13,5 +13,5 @@ T1756137807	Habitat 1131 1136	ulcer
 T168670597	Microorganism 403 409	London
 T724886412	Microorganism 695 704	Chlamydia
 T1027022907	Microorganism 968 977	chlamydia
-R1638249646	Lives_In Microorganism:T168670597 Location:T1498603519
-R980533504	Lives_In Microorganism:T724886412 Location:T314565399
+R828241083	Lives_In Microorganism:T168670597 Location:T1498603519
+R1069584108	Lives_In Microorganism:T724886412 Location:T314565399

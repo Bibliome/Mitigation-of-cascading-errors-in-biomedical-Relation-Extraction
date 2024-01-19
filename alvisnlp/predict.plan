@@ -78,6 +78,12 @@
     <constantTupleFeatures>gold=gold</constantTupleFeatures>
   </gold>
 
+  <normform class="Action">
+    <target>documents.sections.layer</target>
+    <action>set:feat:normform(str:normalizeSpace(@form))</action>
+    <setFeatures/>
+  </normform>
+
   <argmatch class="TabularExport">
     <outDir>.</outDir>
     <corpusFile>argmatch.tsv</corpusFile>
@@ -87,13 +93,13 @@
       @gold;
       @id;
       args:Microorganism.@id;
-      args:Microorganism.@form;
-      str:join:' '(args:Microorganism.span:Microorganism[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
-      str:join:' '(args:Microorganism.(overlapping:Microorganism|inside:Microorganism|outside:Microorganism)[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
+      args:Microorganism.@normform;
+      str:join:' '(args:Microorganism.span:Microorganism[@gold != line.@gold], @id ^ "(" ^ @normform ^ ")");
+      str:join:' '(args:Microorganism.(overlapping:Microorganism|inside:Microorganism|outside:Microorganism)[@gold != line.@gold], @id ^ "(" ^ @normform ^ ")");
       args:Location.@id;
-      args:Location.@form;
-      str:join:' '(args:Location.span:Habitat[@gold != line.@gold], @id ^ "(" ^ @form ^ ")");
-      str:join:' '(args:Location.(overlapping:Habitat|inside:Habitat|outside:Habitat)[@gold != line.@gold], @id ^ "(" ^ @form ^ ")")
+      args:Location.@normform;
+      str:join:' '(args:Location.span:Habitat[@gold != line.@gold], @id ^ "(" ^ @normform ^ ")");
+      str:join:' '(args:Location.(overlapping:Habitat|inside:Habitat|outside:Habitat)[@gold != line.@gold], @id ^ "(" ^ @normform ^ ")")
     </columns>
     <headers>
       "DOC",

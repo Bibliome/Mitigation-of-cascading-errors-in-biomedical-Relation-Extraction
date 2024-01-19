@@ -1,5 +1,5 @@
 T675958841	Habitat 13 18	human
 T162144258	Habitat 13 18	human
 T2025928493	Microorganism 0 6	Vibrio
-R237484673	Lives_In Microorganism:T2025928493 Location:T675958841
-R1412656257	Lives_In Microorganism:T2025928493 Location:T162144258
+R1227867806	Lives_In Microorganism:T2025928493 Location:T675958841
+R292958927	Lives_In Microorganism:T2025928493 Location:T162144258

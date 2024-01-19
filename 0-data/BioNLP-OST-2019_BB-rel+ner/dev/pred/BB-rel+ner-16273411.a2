@@ -8,10 +8,10 @@ T334938881	Habitat 642 650	placenta
 T606740638	Microorganism 57 67	Klebsiella
 T105146840	Microorganism 321 331	Klebsiella
 T485237151	Microorganism 608 618	Klebsiella
-R245530164	Lives_In Microorganism:T105146840 Location:T730584984
-R866273692	Lives_In Microorganism:T105146840 Location:T101776195
-R242408359	Lives_In Microorganism:T105146840 Location:T1276666395
-R3392189	Lives_In Microorganism:T105146840 Location:T132455868
-R503144273	Lives_In Microorganism:T485237151 Location:T969115094
-R1009916891	Lives_In Microorganism:T485237151 Location:T2065112829
-R612716569	Lives_In Microorganism:T485237151 Location:T334938881
+R740467528	Lives_In Microorganism:T105146840 Location:T730584984
+R2077662850	Lives_In Microorganism:T105146840 Location:T101776195
+R1960253514	Lives_In Microorganism:T105146840 Location:T1276666395
+R1370495328	Lives_In Microorganism:T105146840 Location:T132455868
+R1748097277	Lives_In Microorganism:T485237151 Location:T969115094
+R668760567	Lives_In Microorganism:T485237151 Location:T2065112829
+R1803890702	Lives_In Microorganism:T485237151 Location:T334938881
