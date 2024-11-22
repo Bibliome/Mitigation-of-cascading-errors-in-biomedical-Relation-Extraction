@@ -1,4 +1,4 @@
-<alvisnlp-plan id="do">
+<alvisnlp-plan id="predict">
   <read>
     <txt-layout class="BioNLPSTReader">
       <textDir>txt</textDir>
