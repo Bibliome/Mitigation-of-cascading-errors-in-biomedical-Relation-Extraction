@@ -6,11 +6,11 @@
       <textBoundAsAnnotations/>
     </txt-layout>
 
-    <ner class="BioNLPSTReader">
+    <rel class="BioNLPSTReader">
       <textDir>txt</textDir>
-      <a1Dir>NER</a1Dir>
+      <a2Dir>RE-gold</a2Dir>
       <textBoundAsAnnotations/>
-    </ner>
+    </rel>
   </read>
 
   <seg>
@@ -30,11 +30,11 @@
     <generatedLabel>"None"</generatedLabel>
     <assertedCandidates>documents.sections.relations:Lives_In.tuples</assertedCandidates>
     <assertedSubject>args:Microorganism</assertedSubject>
-    <assertedSubject>args:Location</assertedSubject>
+    <assertedObject>args:Location</assertedObject>
     <assertedLabel>"Relation"</assertedLabel>
     <ensembleNumber>1</ensembleNumber>
     <modelType>biobert</modelType>
-    <finetunedModel>/mnt/beegfs/projects/alvisnlp/re-bert/new_model</finetunedModel>
+    <finetunedModel>new_model</finetunedModel>
     <useGPU/>
   </rebert>
 </alvisnlp-plan>
